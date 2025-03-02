@@ -27,7 +27,7 @@ def preprocesamiento_gfw(path):
     return df
 
 def AED(df):
-    years = [f"tc_loss_ha_{year}" for year in range(2001, 2023)]# usamos el for para crear el range de años en los cuales haremos el AED
+    years = [f"tc_loss_ha_{year}" for year in range(2001, 2024)]# usamos el for para crear el range de años en los cuales haremos el AED
     existing_years = [year for year in years if year in df.columns]
     df_filtrado = df[existing_years]
 
