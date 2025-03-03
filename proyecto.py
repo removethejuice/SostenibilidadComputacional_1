@@ -19,6 +19,9 @@ def preprocesamiento_gfw(path):
         print(sheet)
         df = pd.read_excel(path, sheet_name=sheet)  # leemos el archivo excel, nos trasladamremos por cada sheet del archivo y borramos el mismo tipo de datos
         if 'country' in df.columns:
+            #please create a function that deletes the first column if it contains no useful information and no name
+            if df.columns[0] == 'Unnamed: 0':
+                df = df.drop(df.columns[0], axis=1)
             df = df.dropna()  # borramos las filas con datos faltantes, viendo los datos directamente, vemos que no hay datos faltantes, pero siempre inclyo el codigo
             df = df.drop_duplicates()  # borramos los duplicados
             df = df[df['country'] == 'Honduras']  # filtramos los datos para que solo sean de Honduras, este dataset es mundial
@@ -26,7 +29,7 @@ def preprocesamiento_gfw(path):
             df.to_excel(os.path.join(output_dir, sheet + ".xlsx"))  # guardamos el dataset limpio
     return df
 
-def AED(df):
+def AED_country(df):
     years = [f"tc_loss_ha_{year}" for year in range(2001, 2024)]# usamos el for para crear el range de años en los cuales haremos el AED
     existing_years = [year for year in years if year in df.columns]
     df_filtrado = df[existing_years]
@@ -62,12 +65,16 @@ def AED(df):
     plt.grid(True)
     plt.show()
 
+def AED_region(df):
+    
+    return 0
 
 def main():
     path = "gfw_2023_statistics_summary_v30102024.xlsx"
     preprocesamiento_gfw(path)
-    df= pd.read_excel(r"Dataset_gfw_preprocesado\Country tree cover loss.xlsx")
-    AED(df)
+    df= pd.read_excel(r"Dataset_gfw_preprocesado\Country tree cover loss.xlsx")# aca miramos  el total de bosque perdido por año
+    AED_country(df)
+
 
 if __name__ == "__main__":
     main()
