@@ -3,8 +3,10 @@ import matplotlib.pyplot as plt
 import os
 import sys
 from sys import argv
+import re
+from scipy.stats import pearsonr
 
-def preprocesamiento(path):
+def preprocesamiento(path, forest_path):
     df = pd.read_csv(path)
     df['assessmentDate'] = pd.to_datetime(df['assessmentDate'])
     df['assessmentYear'] = df['assessmentDate'].dt.year
@@ -102,14 +104,84 @@ def preprocesamiento(path):
     plt.legend(title='Categoría de peligro (ordinal)')
     plt.show()
 
-
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     df_nuevo.to_csv(os.path.join(output_dir, 'assessments.csv'), index=False)
     df_pivot.to_csv(os.path.join(output_dir, 'especies_por_anio.csv'))
 
 
+    df = pd.read_csv(path)
+    
+    df['assessmentDate'] = pd.to_datetime(df['assessmentDate'])
+    df['assessmentYear'] = df['assessmentDate'].dt.year
+
+    redlist_order_map = {
+        'Data Deficient': 0,
+        'Least Concern': 1,
+        'Near Threatened': 2,
+        'Vulnerable': 3,
+        'Endangered': 4,
+        'Critically Endangered': 5,
+        'Extinct': 6
+    }
+    df['redlistCategory_ordinal'] = df['redlistCategory'].map(redlist_order_map)
+
+    df_amenazadas = df[df['redlistCategory_ordinal'] >= 2]
+
+    df_count = (
+        df_amenazadas.groupby("assessmentYear")["scientificName"]
+        .nunique()
+        .reset_index(name='threatened_species_count')
+    )
+
+    df_forest = pd.read_excel(forest_path)
+    print(df_forest.head())
+    row_index = 0
+
+    pattern = r'tc_loss_ha_(\d{4})'
+    year_columns = [col for col in df_forest.columns if re.match(pattern, col)]
+
+    forest_years = []
+    forest_loss = []
+
+    for col in year_columns:
+        match = re.match(pattern, col)
+        if match:
+            year = int(match.group(1))  
+            forest_years.append(year)
+            value = df_forest.loc[row_index, col]
+            forest_loss.append(value)
+
+    df_loss = pd.DataFrame({
+        'assessmentYear': forest_years,
+        'forest_loss_ha': forest_loss
+    })
+
+    df_merged = pd.merge(df_count, df_loss, on='assessmentYear', how='inner')
+    print(df_merged.head())
+    print(df_count.head())
+    print(df_loss.head())
+
+    df_merged.sort_values('assessmentYear', inplace=True)
+
+    corr_pearson = df_merged['threatened_species_count'].corr(df_merged['forest_loss_ha'])
+    print("Coeficiente de correlación (Pearson):", corr_pearson)
+
+    corr_coef, p_value = pearsonr(df_merged['threatened_species_count'], df_merged['forest_loss_ha'])
+    print(f"Coeficiente de correlación = {corr_coef}, p-value = {p_value}")
+
+    plt.figure(figsize=(8, 6))
+    plt.scatter(df_merged['forest_loss_ha'], df_merged['threatened_species_count'], c='blue')
+    plt.xlabel("Pérdida de bosque (ha)")
+    plt.ylabel("Número de especies amenazadas")
+    plt.title("Relación entre Pérdida de Bosque y Especies Amenazadas")
+    plt.grid(True)
+    plt.show()
+
+
+
 if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    relative_path = os.path.join(script_dir, 'redlist_species_data_77e445ad-bbc0-4eec-bbd2-78e44b850ffb', argv[1])
-    preprocesamiento(relative_path)
+    relative_path = os.path.join(script_dir, 'redlist_species_data_77e445ad-bbc0-4eec-bbd2-78e44b850ffb', 'assessments.csv')
+    forest_path = os.path.join(script_dir, 'Dataset_gfw_preprocesado', "Country tree cover loss.xlsx")
+    preprocesamiento(relative_path, forest_path)
