@@ -5,12 +5,12 @@ Canthon indigaceus,1,3,2015,['Terrestrial'],2015-02-05 00:00:00+00:00
 Ateuchus guatemalensis,1,3,2015,['Terrestrial'],2015-02-05 00:00:00+00:00
 Ontherus azteca,1,3,2013,['Terrestrial'],2013-01-31 00:00:00+00:00
 Coprophanaeus corythus,1,3,2013,['Terrestrial'],2013-01-31 00:00:00+00:00
-Anchoa walkeri,1,3,2019,"['Marine', 'Freshwater']",2019-10-18 00:00:00+00:00
-Microgobius tabogensis,1,3,2018,"['Marine', 'Freshwater']",2018-08-31 00:00:00+00:00
-Hyporhamphus roberti,1,3,2019,"['Marine', 'Freshwater']",2019-03-01 00:00:00+00:00
-Caranx sexfasciatus,1,0,2018,"['Marine', 'Freshwater']",2018-12-13 00:00:00+00:00
+Anchoa walkeri,1,3,2019,"['Freshwater', 'Marine']",2019-10-18 00:00:00+00:00
+Microgobius tabogensis,1,3,2018,"['Freshwater', 'Marine']",2018-08-31 00:00:00+00:00
+Hyporhamphus roberti,1,3,2019,"['Freshwater', 'Marine']",2019-03-01 00:00:00+00:00
+Caranx sexfasciatus,1,0,2018,"['Freshwater', 'Marine']",2018-12-13 00:00:00+00:00
 Lutjanus apodus,1,0,2015,['Marine'],2015-10-10 00:00:00+00:00
-Strongylura marina,1,3,2018,"['Marine', 'Freshwater']",2018-09-06 00:00:00+00:00
+Strongylura marina,1,3,2018,"['Freshwater', 'Marine']",2018-09-06 00:00:00+00:00
 Dalechampia scandens,1,3,2007,['Terrestrial'],2007-03-07 00:00:00+00:00
 Battus ingenuus,1,3,2018,['Terrestrial'],2018-04-05 00:00:00+00:00
 Papilio ornythion,1,3,2019,['Terrestrial'],2019-07-30 00:00:00+00:00
@@ -26,7 +26,7 @@ Alopias superciliosus,3,0,2018,['Marine'],2018-11-06 00:00:00+00:00
 Pseudobatos lentiginosus,3,0,2019,['Marine'],2019-06-23 00:00:00+00:00
 Parachromis friedrichsthalii,1,3,2019,['Freshwater'],2019-12-18 00:00:00+00:00
 Sicydium multipunctatum,1,3,2019,['Freshwater'],2019-01-10 00:00:00+00:00
-Gobiosoma yucatanum,1,3,2019,"['Marine', 'Freshwater']",2019-02-28 00:00:00+00:00
+Gobiosoma yucatanum,1,3,2019,"['Freshwater', 'Marine']",2019-02-28 00:00:00+00:00
 Loxocemus bicolor,1,3,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
 Archosargus rhomboidalis,1,3,2011,['Marine'],2011-03-30 00:00:00+00:00
 Calamus bajonado,1,3,2011,['Marine'],2011-03-30 00:00:00+00:00
@@ -34,7 +34,7 @@ Calamus pennatula,1,3,2011,['Marine'],2011-03-30 00:00:00+00:00
 Calamus penna,1,3,2011,['Marine'],2011-03-31 00:00:00+00:00
 Archosargus probatocephalus,1,1,2011,['Marine'],2011-03-31 00:00:00+00:00
 Calamus calamus,1,3,2011,['Marine'],2011-03-30 00:00:00+00:00
-Vigna luteola,1,1,2019,"['Terrestrial', 'Freshwater']",2019-07-31 00:00:00+00:00
+Vigna luteola,1,1,2019,"['Freshwater', 'Terrestrial']",2019-07-31 00:00:00+00:00
 Indotyphlops braminus,1,2,2018,['Terrestrial'],2018-08-10 00:00:00+00:00
 Diospyros salicifolia,1,1,2022,['Terrestrial'],2022-01-27 00:00:00+00:00
 Diospyros acapulcensis,1,1,2020,['Terrestrial'],2020-10-24 00:00:00+00:00
@@ -45,7 +45,7 @@ Abronia moreletii,1,1,2012,['Terrestrial'],2012-05-12 00:00:00+00:00
 Drymobius melanotropis,1,3,2012,['Terrestrial'],2012-05-09 00:00:00+00:00
 Ninia espinali,2,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Nothopsis rugosus,1,3,2013,['Terrestrial'],2013-10-25 00:00:00+00:00
-Oryza latifolia,1,1,2014,"['Terrestrial', 'Freshwater']",2014-04-01 00:00:00+00:00
+Oryza latifolia,1,1,2014,"['Freshwater', 'Terrestrial']",2014-04-01 00:00:00+00:00
 Omoadiphas texiguatensis,5,0,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
 Pliocercus euryzonus,1,3,2013,['Terrestrial'],2013-10-25 00:00:00+00:00
 Tantilla vermiformis,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
@@ -53,8 +53,8 @@ Urotheca guentheri,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Acanthurus coeruleus,1,1,2010,['Marine'],2010-05-03 00:00:00+00:00
 Acanthurus triostegus,1,1,2010,['Marine'],2010-05-04 00:00:00+00:00
 Acanthurus chirurgus,1,1,2010,['Marine'],2010-05-03 00:00:00+00:00
-Centropomus medius,1,3,2018,"['Marine', 'Freshwater']",2018-11-12 00:00:00+00:00
-Centropomus robalito,1,3,2018,"['Marine', 'Freshwater']",2018-11-13 00:00:00+00:00
+Centropomus medius,1,3,2018,"['Freshwater', 'Marine']",2018-11-12 00:00:00+00:00
+Centropomus robalito,1,3,2018,"['Freshwater', 'Marine']",2018-11-13 00:00:00+00:00
 Anolis loveridgei,4,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Anolis cusuco,5,0,2012,['Terrestrial'],2012-06-08 00:00:00+00:00
 Anolis sminthus,4,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
@@ -83,29 +83,29 @@ Holothuria fuscocinerea,1,3,2010,['Marine'],2010-05-18 00:00:00+00:00
 Holothuria thomasi,1,3,2010,['Marine'],2010-05-20 00:00:00+00:00
 Holothuria impatiens,0,3,2010,['Marine'],2010-05-18 00:00:00+00:00
 Holothuria princeps,1,3,2010,['Marine'],2010-05-19 00:00:00+00:00
-Dormitator latifrons,1,1,2019,"['Marine', 'Freshwater']",2019-02-08 00:00:00+00:00
-Strongylura exilis,1,3,2018,"['Marine', 'Freshwater']",2018-12-07 00:00:00+00:00
-Eleotris picta,1,1,2018,"['Marine', 'Freshwater']",2018-10-02 00:00:00+00:00
-Batrachoides waltersi,1,3,2018,"['Marine', 'Freshwater']",2018-10-04 00:00:00+00:00
-Evorthodus minutus,1,3,2019,"['Marine', 'Freshwater']",2019-02-13 00:00:00+00:00
-Poeciliopsis turrubarensis,1,3,2019,"['Marine', 'Freshwater']",2019-01-17 00:00:00+00:00
-Gobiomorus maculatus,1,3,2018,"['Marine', 'Freshwater']",2018-12-01 00:00:00+00:00
-Dactyloscopus amnis,1,3,2018,"['Marine', 'Freshwater']",2018-08-24 00:00:00+00:00
+Dormitator latifrons,1,1,2019,"['Freshwater', 'Marine']",2019-02-08 00:00:00+00:00
+Strongylura exilis,1,3,2018,"['Freshwater', 'Marine']",2018-12-07 00:00:00+00:00
+Eleotris picta,1,1,2018,"['Freshwater', 'Marine']",2018-10-02 00:00:00+00:00
+Batrachoides waltersi,1,3,2018,"['Freshwater', 'Marine']",2018-10-04 00:00:00+00:00
+Evorthodus minutus,1,3,2019,"['Freshwater', 'Marine']",2019-02-13 00:00:00+00:00
+Poeciliopsis turrubarensis,1,3,2019,"['Freshwater', 'Marine']",2019-01-17 00:00:00+00:00
+Gobiomorus maculatus,1,3,2018,"['Freshwater', 'Marine']",2018-12-01 00:00:00+00:00
+Dactyloscopus amnis,1,3,2018,"['Freshwater', 'Marine']",2018-08-24 00:00:00+00:00
 Hyporhamphus gilli,1,3,2018,['Marine'],2018-08-24 00:00:00+00:00
-Citharichthys gilberti,1,3,2018,"['Marine', 'Freshwater']",2018-06-29 00:00:00+00:00
-Gobionellus microdon,1,1,2018,"['Marine', 'Freshwater']",2018-11-08 00:00:00+00:00
+Citharichthys gilberti,1,3,2018,"['Freshwater', 'Marine']",2018-06-29 00:00:00+00:00
+Gobionellus microdon,1,1,2018,"['Freshwater', 'Marine']",2018-11-08 00:00:00+00:00
 Anchoa nasus,1,3,2019,['Marine'],2019-10-25 00:00:00+00:00
-Trinectes fonsecensis,1,3,2018,"['Marine', 'Freshwater']",2018-05-01 00:00:00+00:00
-Chaenomugil proboscideus,1,3,2018,"['Marine', 'Freshwater']",2018-12-18 00:00:00+00:00
-Atherinella guatemalensis,1,3,2018,"['Marine', 'Freshwater']",2018-10-31 00:00:00+00:00
-Anchovia macrolepidota,1,3,2019,"['Marine', 'Freshwater']",2019-11-01 00:00:00+00:00
-Achirus mazatlanus,1,3,2018,"['Marine', 'Freshwater']",2018-09-28 00:00:00+00:00
-Oligoplites altus,1,3,2019,"['Marine', 'Freshwater']",2019-01-08 00:00:00+00:00
-Gobioides peruanus,1,3,2019,"['Marine', 'Freshwater']",2019-02-28 00:00:00+00:00
-Bagre pinnimaculatus,1,3,2018,"['Marine', 'Freshwater']",2018-05-03 00:00:00+00:00
-Gerres cinereus,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
+Trinectes fonsecensis,1,3,2018,"['Freshwater', 'Marine']",2018-05-01 00:00:00+00:00
+Chaenomugil proboscideus,1,3,2018,"['Freshwater', 'Marine']",2018-12-18 00:00:00+00:00
+Atherinella guatemalensis,1,3,2018,"['Freshwater', 'Marine']",2018-10-31 00:00:00+00:00
+Anchovia macrolepidota,1,3,2019,"['Freshwater', 'Marine']",2019-11-01 00:00:00+00:00
+Achirus mazatlanus,1,3,2018,"['Freshwater', 'Marine']",2018-09-28 00:00:00+00:00
+Oligoplites altus,1,3,2019,"['Freshwater', 'Marine']",2019-01-08 00:00:00+00:00
+Gobioides peruanus,1,3,2019,"['Freshwater', 'Marine']",2019-02-28 00:00:00+00:00
+Bagre pinnimaculatus,1,3,2018,"['Freshwater', 'Marine']",2018-05-03 00:00:00+00:00
+Gerres cinereus,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
 Microgobius miraflorensis,1,3,2019,['Marine'],2019-03-01 00:00:00+00:00
-Littoraria angulifera,1,3,2019,"['Marine', 'Freshwater']",2019-09-23 00:00:00+00:00
+Littoraria angulifera,1,3,2019,"['Freshwater', 'Marine']",2019-09-23 00:00:00+00:00
 Myxodagnus walkeri,1,3,2011,['Marine'],2011-03-24 00:00:00+00:00
 Phaeoptyx pigmentaria,1,1,2011,['Marine'],2011-03-10 00:00:00+00:00
 Phaeoptyx conklini,1,1,2011,['Marine'],2011-03-10 00:00:00+00:00
@@ -138,7 +138,7 @@ Apogon quadrisquamatus,1,3,2011,['Marine'],2011-03-10 00:00:00+00:00
 Apogon townsendi,1,1,2010,['Marine'],2010-03-10 00:00:00+00:00
 Apogon maculatus,1,1,2011,['Marine'],2011-03-10 00:00:00+00:00
 Apogon pillionatus,1,3,2011,['Marine'],2011-03-10 00:00:00+00:00
-Awaous tajasica,1,3,2018,"['Marine', 'Freshwater']",2018-11-15 00:00:00+00:00
+Awaous tajasica,1,3,2018,"['Freshwater', 'Marine']",2018-11-15 00:00:00+00:00
 Barbulifer ceuthoecus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Bollmannia boqueronensis,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Bollmannia litura,1,3,2011,['Marine'],2011-03-22 00:00:00+00:00
@@ -153,21 +153,21 @@ Coryphopterus personatus,3,3,2011,['Marine'],2011-03-22 00:00:00+00:00
 Coryphopterus alloides,3,3,2011,['Marine'],2011-03-22 00:00:00+00:00
 Coryphopterus dicrus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Ctenogobius saepepallens,1,3,2014,['Marine'],2014-01-10 00:00:00+00:00
-Ctenogobius pseudofasciatus,1,3,2011,"['Marine', 'Freshwater']",2011-03-23 00:00:00+00:00
-Ctenogobius fasciatus,1,3,2014,"['Marine', 'Freshwater']",2014-01-10 00:00:00+00:00
+Ctenogobius pseudofasciatus,1,3,2011,"['Freshwater', 'Marine']",2011-03-23 00:00:00+00:00
+Ctenogobius fasciatus,1,3,2014,"['Freshwater', 'Marine']",2014-01-10 00:00:00+00:00
 Diapterus auratus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Elacatinus lori,1,3,2011,['Marine'],2011-03-24 00:00:00+00:00
 Elacatinus prochilos,3,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Tigrigobius saucrus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Elacatinus louisae,1,3,2011,['Marine'],2011-03-24 00:00:00+00:00
 Elacatinus evelynae,1,3,2011,['Marine'],2011-03-23 00:00:00+00:00
-Erotelis smaragdus,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Eucinostomus melanopterus,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Eucinostomus argenteus,1,1,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Eucinostomus gula,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
+Erotelis smaragdus,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Eucinostomus melanopterus,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Eucinostomus argenteus,1,1,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Eucinostomus gula,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
 Eucinostomus jonesii,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
-Eugerres plumieri,1,1,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Eugerres brasilianus,1,1,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
+Eugerres plumieri,1,1,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Eugerres brasilianus,1,1,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
 Gobiesox strumosus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Lipogramma regia,1,3,2011,['Marine'],2011-03-22 00:00:00+00:00
 Lipogramma evides,1,1,2011,['Marine'],2011-03-22 00:00:00+00:00
@@ -179,15 +179,15 @@ Microgobius signatus,1,3,2011,['Marine'],2011-03-23 00:00:00+00:00
 Oxyurichthys stigmalophius,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Priolepis hipoliti,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Ptereleotris helenae,1,3,2011,['Marine'],2011-03-21 00:00:00+00:00
-Sicydium punctatum,1,0,2011,"['Marine', 'Freshwater']",2011-03-24 00:00:00+00:00
+Sicydium punctatum,1,0,2011,"['Freshwater', 'Marine']",2011-03-24 00:00:00+00:00
 Tomicodon rupestris,1,3,2011,['Marine'],2011-03-22 00:00:00+00:00
 Rhamdia quelen,1,1,2018,['Freshwater'],2018-03-19 00:00:00+00:00
 Gymnotus carapo,1,3,2018,['Freshwater'],2018-07-09 00:00:00+00:00
 Lycengraulis grossidens,1,3,2012,['Marine'],2012-08-24 00:00:00+00:00
-Synbranchus marmoratus,1,3,2018,"['Marine', 'Freshwater']",2018-03-28 00:00:00+00:00
+Synbranchus marmoratus,1,3,2018,"['Freshwater', 'Marine']",2018-03-28 00:00:00+00:00
 Sternopygus macrurus,1,1,2020,['Freshwater'],2020-12-03 00:00:00+00:00
 Abudefduf taurus,1,1,2010,['Marine'],2010-11-15 00:00:00+00:00
-Stegastes otophorus,0,3,2010,"['Marine', 'Freshwater']",2010-11-15 00:00:00+00:00
+Stegastes otophorus,0,3,2010,"['Freshwater', 'Marine']",2010-11-15 00:00:00+00:00
 Stegastes planifrons,1,3,2010,['Marine'],2010-11-15 00:00:00+00:00
 Stegastes partitus,1,1,2010,['Marine'],2010-11-15 00:00:00+00:00
 Stegastes adustus,1,1,2010,['Marine'],2010-11-15 00:00:00+00:00
@@ -197,9 +197,9 @@ Stegastes diencaeus,1,3,2010,['Marine'],2010-11-15 00:00:00+00:00
 Chromis multilineata,1,3,2010,['Marine'],2010-11-15 00:00:00+00:00
 Microspathodon chrysurus,1,3,2010,['Marine'],2010-11-15 00:00:00+00:00
 Chromis insolata,1,3,2010,['Marine'],2010-11-15 00:00:00+00:00
-Vitta virginea,1,1,2012,"['Marine', 'Freshwater']",2012-04-21 00:00:00+00:00
+Vitta virginea,1,1,2012,"['Freshwater', 'Marine']",2012-04-21 00:00:00+00:00
 Strongylura notata,1,3,2012,['Marine'],2012-08-21 00:00:00+00:00
-Ariopsis assimilis,1,0,2018,"['Marine', 'Freshwater']",2018-08-19 00:00:00+00:00
+Ariopsis assimilis,1,0,2018,"['Freshwater', 'Marine']",2018-08-19 00:00:00+00:00
 Lutjanus mahogoni,1,3,2015,['Marine'],2015-10-10 00:00:00+00:00
 Rhynchoconger guppyi,1,3,2011,['Marine'],2011-08-19 00:00:00+00:00
 Bellator brachychir,1,3,2012,['Marine'],2012-08-22 00:00:00+00:00
@@ -237,7 +237,7 @@ Kaupichthys nuchalis,1,3,2011,['Marine'],2011-08-15 00:00:00+00:00
 Polyacanthonotus merretti,1,3,2011,['Marine'],2011-03-09 00:00:00+00:00
 Thecadactylus rapicauda,1,1,2014,['Terrestrial'],2014-11-24 00:00:00+00:00
 Leptodrymus pulcherrimus,1,1,2012,['Terrestrial'],2012-05-06 00:00:00+00:00
-Lophogobius cyprinoides,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
+Lophogobius cyprinoides,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
 Bathygobius mystacium,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Lythrypnus crocodilus,1,3,2011,['Marine'],2011-03-24 00:00:00+00:00
 Apogon planifrons,1,1,2011,['Marine'],2011-03-10 00:00:00+00:00
@@ -249,13 +249,13 @@ Brycon guatemalensis,1,3,2018,['Freshwater'],2018-11-15 00:00:00+00:00
 Roeboides bouchellei,1,3,2018,['Freshwater'],2018-02-26 00:00:00+00:00
 Anchoa lyolepis,1,3,2012,['Marine'],2012-08-24 00:00:00+00:00
 Labichthys carinatus,1,3,2019,['Marine'],2019-11-15 00:00:00+00:00
-Belonesox belizanus,1,3,2018,"['Marine', 'Freshwater']",2018-03-28 00:00:00+00:00
+Belonesox belizanus,1,3,2018,"['Freshwater', 'Marine']",2018-03-28 00:00:00+00:00
 Gambusia sexradiata,1,3,2018,['Freshwater'],2018-03-28 00:00:00+00:00
 Pseudoxiphophorus bimaculatus,1,1,2018,['Freshwater'],2018-08-28 00:00:00+00:00
 Poecilia mexicana,1,1,2018,['Freshwater'],2018-03-22 00:00:00+00:00
-Poecilia orri,1,1,2018,"['Marine', 'Freshwater']",2018-03-22 00:00:00+00:00
+Poecilia orri,1,1,2018,"['Freshwater', 'Marine']",2018-03-22 00:00:00+00:00
 Poeciliopsis pleurospilus,1,3,2018,['Freshwater'],2018-03-23 00:00:00+00:00
-Xiphophorus hellerii,1,1,2018,"['Marine', 'Freshwater']",2018-03-29 00:00:00+00:00
+Xiphophorus hellerii,1,1,2018,"['Freshwater', 'Marine']",2018-03-29 00:00:00+00:00
 Cynodonichthys tenuis,0,3,2018,['Freshwater'],2018-03-28 00:00:00+00:00
 Gymnotus maculosus,1,3,2018,['Freshwater'],2018-03-19 00:00:00+00:00
 Cribroheros robertsoni,1,3,2018,['Freshwater'],2018-10-02 00:00:00+00:00
@@ -317,13 +317,13 @@ Cryptoheros spilurus,0,1,2020,['Freshwater'],2020-01-17 00:00:00+00:00
 Rocio octofasciata,1,1,2018,['Freshwater'],2018-08-24 00:00:00+00:00
 Thorichthys aureus,0,3,2018,['Freshwater'],2018-08-10 00:00:00+00:00
 Vieja guttulata,0,3,2018,['Freshwater'],2018-09-26 00:00:00+00:00
-Vieja maculicauda,1,3,2018,"['Marine', 'Freshwater']",2018-08-27 00:00:00+00:00
-Diapterus rhombeus,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Eucinostomus harengulus,1,3,2010,"['Marine', 'Freshwater']",2010-03-01 00:00:00+00:00
-Awaous banana,1,1,2018,"['Marine', 'Freshwater']",2018-09-03 00:00:00+00:00
-Sicydium gymnogaster,1,3,2018,"['Marine', 'Freshwater']",2018-09-03 00:00:00+00:00
+Vieja maculicauda,1,3,2018,"['Freshwater', 'Marine']",2018-08-27 00:00:00+00:00
+Diapterus rhombeus,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Eucinostomus harengulus,1,3,2010,"['Freshwater', 'Marine']",2010-03-01 00:00:00+00:00
+Awaous banana,1,1,2018,"['Freshwater', 'Marine']",2018-09-03 00:00:00+00:00
+Sicydium gymnogaster,1,3,2018,"['Freshwater', 'Marine']",2018-09-03 00:00:00+00:00
 Lutjanus griseus,1,3,2015,['Marine'],2015-10-10 00:00:00+00:00
-Joturus pichardi,1,0,2018,"['Marine', 'Freshwater']",2018-03-20 00:00:00+00:00
+Joturus pichardi,1,0,2018,"['Freshwater', 'Marine']",2018-03-20 00:00:00+00:00
 Rypticus saponaceus,1,3,2012,['Marine'],2012-08-23 00:00:00+00:00
 Ostracion meleagris,1,3,2023,['Marine'],2023-08-14 00:00:00+00:00
 Sphoeroides spengleri,1,3,2011,['Marine'],2011-06-07 00:00:00+00:00
@@ -333,7 +333,7 @@ Acanthostracion polygonius,1,3,2011,['Marine'],2011-06-07 00:00:00+00:00
 Acanthostracion quadricornis,1,1,2011,['Marine'],2011-06-07 00:00:00+00:00
 Arothron meleagris,1,1,2011,['Marine'],2011-06-07 00:00:00+00:00
 Lactoria diaphana,1,3,2023,['Marine'],2023-08-18 00:00:00+00:00
-Arothron hispidus,1,3,2011,"['Marine', 'Freshwater']",2011-06-10 00:00:00+00:00
+Arothron hispidus,1,3,2011,"['Freshwater', 'Marine']",2011-06-10 00:00:00+00:00
 Canthigaster jamestyleri,1,3,2011,['Marine'],2011-06-08 00:00:00+00:00
 Hollardia hollardi,1,3,2018,['Marine'],2018-10-12 00:00:00+00:00
 Sphoeroides dorsalis,1,3,2011,['Marine'],2011-06-07 00:00:00+00:00
@@ -351,7 +351,7 @@ Quercus rugosa,1,0,2017,['Terrestrial'],2017-01-24 00:00:00+00:00
 Quercus segoviensis,1,1,2018,['Terrestrial'],2018-04-27 00:00:00+00:00
 Albula vulpes,2,0,2011,['Marine'],2011-03-29 00:00:00+00:00
 Elops smithi,0,3,2011,['Marine'],2011-03-30 00:00:00+00:00
-Bolitoglossa nympha,1,0,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
+Bolitoglossa nympha,1,0,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
 Ocyurus chrysurus,0,0,2015,['Marine'],2015-10-10 00:00:00+00:00
 Lutjanus synagris,2,0,2015,['Marine'],2015-10-10 00:00:00+00:00
 Lutjanus vivanus,1,0,2015,['Marine'],2015-10-10 00:00:00+00:00
@@ -387,11 +387,11 @@ Bathygobius antilliensis,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Bathygobius lacertus,1,3,2010,['Marine'],2010-03-01 00:00:00+00:00
 Elacatinus colini,1,3,2011,['Marine'],2011-03-23 00:00:00+00:00
 Elacatinus lobeli,2,3,2011,['Marine'],2011-03-23 00:00:00+00:00
-Kuhlia mugil,1,3,2011,"['Marine', 'Freshwater']",2011-09-15 00:00:00+00:00
+Kuhlia mugil,1,3,2011,"['Freshwater', 'Marine']",2011-09-15 00:00:00+00:00
 Ijimaia antillarum,1,3,2018,['Marine'],2018-10-11 00:00:00+00:00
 Citharichthys abbotti,1,3,2013,['Marine'],2013-01-29 00:00:00+00:00
 Bagre marinus,1,3,2014,['Marine'],2014-01-07 00:00:00+00:00
-Cathorops higuchii,1,3,2011,"['Marine', 'Freshwater']",2011-08-17 00:00:00+00:00
+Cathorops higuchii,1,3,2011,"['Freshwater', 'Marine']",2011-08-17 00:00:00+00:00
 Cathorops melanopus,1,3,2020,['Freshwater'],2020-02-06 00:00:00+00:00
 Amastridium veliferum,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Holcosus undulatus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
@@ -407,7 +407,7 @@ Anolis biporcatus,1,1,2013,['Terrestrial'],2013-10-24 00:00:00+00:00
 Anolis petersii,2,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Anolis uniformis,1,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Anolis tropidonotus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
-Basiliscus vittatus,1,1,2012,"['Terrestrial', 'Freshwater']",2012-05-07 00:00:00+00:00
+Basiliscus vittatus,1,1,2012,"['Freshwater', 'Terrestrial']",2012-05-07 00:00:00+00:00
 Bothriechis schlegelii,1,1,2013,['Terrestrial'],2013-10-25 00:00:00+00:00
 Bothrops asper,1,1,2013,['Terrestrial'],2013-10-25 00:00:00+00:00
 Clelia clelia,1,1,2014,['Terrestrial'],2014-11-24 00:00:00+00:00
@@ -450,9 +450,9 @@ Sphaerodactylus millepunctatus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:0
 Sphaerodactylus glaucus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Scincella assata,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Stenorrhina degenhardtii,1,1,2013,['Terrestrial'],2013-10-22 00:00:00+00:00
-Thamnophis marcianus,1,3,2005,"['Terrestrial', 'Freshwater']",2005-09-14 00:00:00+00:00
-Thamnophis proximus,1,1,2005,"['Terrestrial', 'Freshwater']",2005-09-14 00:00:00+00:00
-Tretanorhinus nigroluteus,1,3,2012,"['Terrestrial', 'Freshwater']",2012-05-07 00:00:00+00:00
+Thamnophis marcianus,1,3,2005,"['Freshwater', 'Terrestrial']",2005-09-14 00:00:00+00:00
+Thamnophis proximus,1,1,2005,"['Freshwater', 'Terrestrial']",2005-09-14 00:00:00+00:00
+Tretanorhinus nigroluteus,1,3,2012,"['Freshwater', 'Terrestrial']",2012-05-07 00:00:00+00:00
 Ungaliophis continentalis,4,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Xenodon rabdocephalus,1,1,2014,['Terrestrial'],2014-11-26 00:00:00+00:00
 Xenomystax austrinus,1,3,2011,['Marine'],2011-08-15 00:00:00+00:00
@@ -490,7 +490,7 @@ Holothuria inornata,0,3,2010,['Marine'],2010-05-20 00:00:00+00:00
 Ostrea conchaphila,0,3,2011,['Marine'],2011-10-04 00:00:00+00:00
 Acoelorraphe wrightii,1,1,2016,['Terrestrial'],2016-10-03 00:00:00+00:00
 Acrocomia aculeata,1,1,2021,['Terrestrial'],2021-07-26 00:00:00+00:00
-Lithobates brownorum,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-09 00:00:00+00:00
+Lithobates brownorum,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-09 00:00:00+00:00
 Rhadinella anachoreta,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Rhadinella montecristi,3,0,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
 Rhadinella pegosalyta,3,0,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
@@ -537,7 +537,7 @@ Erythrolamprus mimus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Geophis fulvoguttatus,4,0,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
 Geophis hoffmanni,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Geophis nephodrymus,3,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
-Hydromorphus concolor,1,1,2012,"['Terrestrial', 'Freshwater']",2012-05-07 00:00:00+00:00
+Hydromorphus concolor,1,1,2012,"['Freshwater', 'Terrestrial']",2012-05-07 00:00:00+00:00
 Ninia maculata,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Omoadiphas aurula,3,0,2012,['Terrestrial'],2012-05-08 00:00:00+00:00
 Omoadiphas cannula,5,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
@@ -565,7 +565,7 @@ Carcharhinus obscurus,4,0,2018,['Marine'],2018-11-06 00:00:00+00:00
 Carcharhinus plumbeus,4,0,2020,['Marine'],2020-12-03 00:00:00+00:00
 Isurus oxyrinchus,4,0,2018,['Marine'],2018-11-05 00:00:00+00:00
 Mustelus canis,2,0,2019,['Marine'],2019-06-21 00:00:00+00:00
-Carcharhinus leucas,3,0,2020,"['Marine', 'Freshwater']",2020-11-24 00:00:00+00:00
+Carcharhinus leucas,3,0,2020,"['Freshwater', 'Marine']",2020-11-24 00:00:00+00:00
 Carcharhinus longimanus,5,0,2018,['Marine'],2018-11-07 00:00:00+00:00
 Galeocerdo cuvier,2,0,2018,['Marine'],2018-08-10 00:00:00+00:00
 Negaprion brevirostris,3,0,2020,['Marine'],2020-09-04 00:00:00+00:00
@@ -577,20 +577,20 @@ Ctenosaura flavidorsalis,2,0,2020,['Terrestrial'],2020-03-10 00:00:00+00:00
 Ctenosaura quinquecarinata,0,0,2020,['Terrestrial'],2020-03-17 00:00:00+00:00
 Scyliorhinus hesperius,1,1,2019,['Marine'],2019-06-21 00:00:00+00:00
 Rhinoptera brasiliensis,3,0,2019,['Marine'],2019-06-21 00:00:00+00:00
-Caiman crocodilus,1,1,2016,"['Terrestrial', 'Freshwater']",2016-02-08 00:00:00+00:00
-Rhaebo haematiticus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-26 00:00:00+00:00
-Cochranella granulosa,1,0,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Teratohyla pulverata,1,3,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Agalychnis callidryas,1,0,2016,"['Terrestrial', 'Freshwater']",2016-06-21 00:00:00+00:00
+Caiman crocodilus,1,1,2016,"['Freshwater', 'Terrestrial']",2016-02-08 00:00:00+00:00
+Rhaebo haematiticus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-26 00:00:00+00:00
+Cochranella granulosa,1,0,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Teratohyla pulverata,1,3,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Agalychnis callidryas,1,0,2016,"['Freshwater', 'Terrestrial']",2016-06-21 00:00:00+00:00
 Triprion spinosus,2,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
-Dendropsophus microcephalus,1,2,2020,"['Terrestrial', 'Freshwater']",2020-07-13 00:00:00+00:00
+Dendropsophus microcephalus,1,2,2020,"['Freshwater', 'Terrestrial']",2020-07-13 00:00:00+00:00
 Pristimantis cerasinus,1,1,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Craugastor coffeus,5,0,2019,['Terrestrial'],2019-03-12 00:00:00+00:00
 Diasporus diastema,1,0,2014,['Terrestrial'],2014-06-19 00:00:00+00:00
 Craugastor megacephalus,1,1,2019,['Terrestrial'],2019-09-04 00:00:00+00:00
 Craugastor noblei,1,3,2014,['Terrestrial'],2014-06-20 00:00:00+00:00
-Lithobates maculatus,1,0,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
-Bolitoglossa striatula,1,0,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
+Lithobates maculatus,1,0,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
+Bolitoglossa striatula,1,0,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
 Rhinoptera bonasus,3,0,2019,['Marine'],2019-06-21 00:00:00+00:00
 Styracura schmardae,4,0,2019,['Marine'],2019-06-21 00:00:00+00:00
 Sphyrna media,5,0,2019,['Marine'],2019-02-08 00:00:00+00:00
@@ -623,7 +623,7 @@ Stenorrhina freminvillei,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Storeria dekayi,1,1,2012,['Terrestrial'],2012-05-10 00:00:00+00:00
 Tantilla impensa,1,1,2012,['Terrestrial'],2012-05-10 00:00:00+00:00
 Tantillita lintoni,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
-Thamnophis fulvus,1,1,2012,"['Terrestrial', 'Freshwater']",2012-05-10 00:00:00+00:00
+Thamnophis fulvus,1,1,2012,"['Freshwater', 'Terrestrial']",2012-05-10 00:00:00+00:00
 Micrurus browni,1,1,2012,['Terrestrial'],2012-05-10 00:00:00+00:00
 Aspidoscelis motaguae,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Agkistrodon bilineatus,2,0,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
@@ -636,7 +636,7 @@ Raddaus orestrius,1,1,2008,['Freshwater'],2008-01-01 00:00:00+00:00
 Phrygiopilus ibarrai,0,3,2008,['Freshwater'],2008-01-01 00:00:00+00:00
 Raddaus mertensi,3,3,2008,['Freshwater'],2008-01-01 00:00:00+00:00
 Potamocarcinus armatus,1,1,2008,['Freshwater'],2008-01-01 00:00:00+00:00
-Phrygiopilus longipes,0,3,2008,"['Terrestrial', 'Freshwater']",2008-01-01 00:00:00+00:00
+Phrygiopilus longipes,0,3,2008,"['Freshwater', 'Terrestrial']",2008-01-01 00:00:00+00:00
 Trichodactylus quinquedentatus,1,1,2008,['Freshwater'],2008-01-01 00:00:00+00:00
 Potamocarcinus magnus,1,1,2008,['Freshwater'],2008-01-01 00:00:00+00:00
 Raddaus bocourti,1,1,2008,['Freshwater'],2008-01-01 00:00:00+00:00
@@ -711,14 +711,14 @@ Halophila decipiens,1,1,2007,['Marine'],2007-10-23 00:00:00+00:00
 Halodule wrightii,1,2,2007,['Marine'],2007-03-21 00:00:00+00:00
 Syringodium filiforme,1,1,2007,['Marine'],2007-03-21 00:00:00+00:00
 Ctenosaura praeocularis,0,3,2011,['Terrestrial'],2011-02-15 00:00:00+00:00
-Acrostichum aureum,1,1,2008,"['Marine', 'Terrestrial', 'Freshwater']",2008-03-07 00:00:00+00:00
+Acrostichum aureum,1,1,2008,"['Freshwater', 'Marine', 'Terrestrial']",2008-03-07 00:00:00+00:00
 Ammodytoides gilli,1,3,2007,['Marine'],2007-05-21 00:00:00+00:00
 Lobotes pacificus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Clarkichthys bilineatus,0,3,2007,['Marine'],2007-05-23 00:00:00+00:00
-Microdesmus affinis,0,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
+Microdesmus affinis,0,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
 Microdesmus dipus,0,3,2007,['Marine'],2007-05-23 00:00:00+00:00
-Microdesmus dorsipunctatus,0,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
-Microdesmus retropinnis,0,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
+Microdesmus dorsipunctatus,0,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
+Microdesmus retropinnis,0,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
 Microdesmus suttkusi,0,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Psenes sio,1,3,2008,['Marine'],2008-05-02 00:00:00+00:00
 Pristigenys serrula,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
@@ -732,16 +732,16 @@ Chaetodipterus zonatus,1,3,2008,['Marine'],2008-05-02 00:00:00+00:00
 Parapsettus panamensis,1,3,2008,['Marine'],2008-05-02 00:00:00+00:00
 Laguncularia racemosa,1,0,2007,"['Marine', 'Terrestrial']",2007-03-22 00:00:00+00:00
 Conocarpus erectus,1,0,2007,"['Marine', 'Terrestrial']",2007-03-21 00:00:00+00:00
-Acrostichum danaeifolium,1,3,2008,"['Marine', 'Terrestrial', 'Freshwater']",2008-03-07 00:00:00+00:00
+Acrostichum danaeifolium,1,3,2008,"['Freshwater', 'Marine', 'Terrestrial']",2008-03-07 00:00:00+00:00
 Avicennia germinans,1,0,2007,"['Marine', 'Terrestrial']",2007-03-21 00:00:00+00:00
 Rhizophora samoensis,2,0,2008,"['Marine', 'Terrestrial']",2008-03-07 00:00:00+00:00
-Avicennia bicolor,3,0,2008,"['Marine', 'Terrestrial', 'Freshwater']",2008-03-07 00:00:00+00:00
+Avicennia bicolor,3,0,2008,"['Freshwater', 'Marine', 'Terrestrial']",2008-03-07 00:00:00+00:00
 Diplectrum pacificum,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Genyatremus pacifici,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Eucinostomus dowii,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Selene peruviana,1,3,2008,['Marine'],2008-04-30 00:00:00+00:00
-Microgobius brevispinis,1,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
-Gobionellus liolepis,0,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
+Microgobius brevispinis,1,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
+Gobionellus liolepis,0,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
 Gymnothorax dovii,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Kyphosus analogus,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Opistognathus punctatus,1,3,2007,['Marine'],2007-05-21 00:00:00+00:00
@@ -796,7 +796,7 @@ Halichoeres chierchiae,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Opistognathus rhomaleus,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Paraconger similis,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Ophichthus longipenis,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
-Ariopsis guatemalensis,1,3,2007,"['Marine', 'Freshwater']",2007-05-22 00:00:00+00:00
+Ariopsis guatemalensis,1,3,2007,"['Freshwater', 'Marine']",2007-05-22 00:00:00+00:00
 Heteristius cinctus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Diplectrum eumelum,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Ophidion imitator,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
@@ -826,7 +826,7 @@ Prionotus ruscarius,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Enchelycore octaviana,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Microgobius cyclolepis,1,3,2008,['Marine'],2008-04-29 00:00:00+00:00
 Abudefduf declivifrons,1,3,2008,['Marine'],2008-05-27 00:00:00+00:00
-Anchoa lucida,1,3,2008,"['Marine', 'Freshwater']",2008-04-30 00:00:00+00:00
+Anchoa lucida,1,3,2008,"['Freshwater', 'Marine']",2008-04-30 00:00:00+00:00
 Microspathodon bairdii,1,3,2007,['Marine'],2007-05-27 00:00:00+00:00
 Dactyloscopus minutus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Ctenogobius sagittula,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
@@ -839,8 +839,8 @@ Malacoctenus margaritae,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Haemulon scudderii,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Gobiosoma paradoxum,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Scorpaena mystes,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
-Notarius planiceps,1,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
-Occidentarius platypogon,1,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
+Notarius planiceps,1,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
+Occidentarius platypogon,1,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
 Paraclinus monophthalmus,1,3,2008,['Marine'],2008-04-28 00:00:00+00:00
 Haemulopsis axillaris,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Synodus evermanni,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
@@ -857,8 +857,8 @@ Balistes polylepis,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Batrachoides boulengeri,3,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Gobiosoma seminudum,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Dactyloscopus lunaticus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
-Eucinostomus gracilis,1,3,2007,"['Marine', 'Freshwater']",2007-05-25 00:00:00+00:00
-Bathygobius andrei,1,1,2007,"['Marine', 'Freshwater']",2007-05-21 00:00:00+00:00
+Eucinostomus gracilis,1,3,2007,"['Freshwater', 'Marine']",2007-05-25 00:00:00+00:00
+Bathygobius andrei,1,1,2007,"['Freshwater', 'Marine']",2007-05-21 00:00:00+00:00
 Peprilus snyderi,1,3,2008,['Marine'],2008-05-02 00:00:00+00:00
 Lonchopisthus sinuscalifornicus,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Malacoctenus tetranemus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
@@ -877,15 +877,15 @@ Tomicodon petersii,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Ekemblemaria myersi,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Serranus huascarii,1,3,2008,['Marine'],2008-05-02 00:00:00+00:00
 Haemulon sexfasciatum,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
-Anchoa curta,1,3,2008,"['Marine', 'Freshwater']",2008-04-30 00:00:00+00:00
+Anchoa curta,1,3,2008,"['Freshwater', 'Marine']",2008-04-30 00:00:00+00:00
 Anisotremus taeniatus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Synodus sechurae,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Sphoeroides trichocephalus,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Bodianus diplotaenia,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
-Evermannia zosterura,1,3,2007,"['Marine', 'Freshwater']",2007-05-22 00:00:00+00:00
+Evermannia zosterura,1,3,2007,"['Freshwater', 'Marine']",2007-05-22 00:00:00+00:00
 Emblemaria piratica,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Acanthemblemaria exilispinus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
-Paralichthys woolmani,0,0,2007,"['Marine', 'Freshwater']",2007-05-25 00:00:00+00:00
+Paralichthys woolmani,0,0,2007,"['Freshwater', 'Marine']",2007-05-25 00:00:00+00:00
 Otophidium indefatigabile,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Selene brevoortii,1,3,2008,['Marine'],2008-04-30 00:00:00+00:00
 Tylosurus pacificus,1,3,2007,['Marine'],2007-05-21 00:00:00+00:00
@@ -905,7 +905,7 @@ Polydactylus approximans,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Gymneleotris seminudum,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Prionotus horrens,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Bollmannia ocellata,0,3,2007,['Marine'],2007-05-22 00:00:00+00:00
-Eucinostomus currani,1,3,2007,"['Marine', 'Freshwater']",2007-05-25 00:00:00+00:00
+Eucinostomus currani,1,3,2007,"['Freshwater', 'Marine']",2007-05-25 00:00:00+00:00
 Rypticus bicolor,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Ophichthus zophochir,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Enneanectes carminalis,1,3,2007,['Marine'],2007-05-27 00:00:00+00:00
@@ -940,7 +940,7 @@ Brotula ordwayi,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Neoconger vermiformis,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Porichthys greenei,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Lutjanus aratus,1,3,2007,['Marine'],2007-05-23 00:00:00+00:00
-Bagre panamensis,1,3,2007,"['Marine', 'Freshwater']",2007-05-22 00:00:00+00:00
+Bagre panamensis,1,3,2007,"['Freshwater', 'Marine']",2007-05-22 00:00:00+00:00
 Hemiramphus saltator,1,3,2007,['Marine'],2007-05-21 00:00:00+00:00
 Membras gilberti,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Ogilbia boydwalkeri,1,3,2008,['Marine'],2008-04-29 00:00:00+00:00
@@ -954,9 +954,9 @@ Merluccius angustimanus,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Akko rossi,0,3,2007,['Marine'],2007-05-21 00:00:00+00:00
 Carangoides otrynter,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
 Diplectrum rostrum,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
-Anchoa mundeola,1,3,2008,"['Marine', 'Freshwater']",2008-04-30 00:00:00+00:00
+Anchoa mundeola,1,3,2008,"['Freshwater', 'Marine']",2008-04-30 00:00:00+00:00
 Hemicaranx leucurus,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
-Ariopsis seemanni,1,3,2007,"['Marine', 'Freshwater']",2007-05-22 00:00:00+00:00
+Ariopsis seemanni,1,3,2007,"['Freshwater', 'Marine']",2007-05-22 00:00:00+00:00
 Tomicodon myersi,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Halichoeres dispilus,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Microspathodon dorsalis,1,3,2008,['Marine'],2008-05-27 00:00:00+00:00
@@ -966,7 +966,7 @@ Eucinostomus entomelas,1,1,2007,['Marine'],2007-05-25 00:00:00+00:00
 Gillellus searcheri,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Acanthemblemaria hancocki,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
 Gobiesox papillifer,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
-Sciades dowii,1,3,2007,"['Marine', 'Freshwater']",2007-05-23 00:00:00+00:00
+Sciades dowii,1,3,2007,"['Freshwater', 'Marine']",2007-05-23 00:00:00+00:00
 Kyphosus elegans,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Gymnothorax equatorialis,1,3,2007,['Marine'],2007-05-24 00:00:00+00:00
 Labrisomus multiporosus,1,3,2007,['Marine'],2007-05-25 00:00:00+00:00
@@ -1031,7 +1031,7 @@ Halichoeres nicholsi,1,1,2007,['Marine'],2007-05-23 00:00:00+00:00
 Carapus dubius,0,3,2007,['Marine'],2007-05-23 00:00:00+00:00
 Myrichthys tigrinus,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Pseudogramma thaumasium,1,3,2008,['Marine'],2008-05-01 00:00:00+00:00
-Atherinella argentea,1,3,2007,"['Marine', 'Freshwater']",2007-05-25 00:00:00+00:00
+Atherinella argentea,1,3,2007,"['Freshwater', 'Marine']",2007-05-25 00:00:00+00:00
 Myrophis vafer,1,3,2007,['Marine'],2007-05-22 00:00:00+00:00
 Stereomastis nana,1,1,2009,['Marine'],2009-12-03 00:00:00+00:00
 Bathyarctus faxoni,1,3,2009,['Marine'],2009-12-03 00:00:00+00:00
@@ -1068,9 +1068,9 @@ Galba cubensis,1,1,2011,['Freshwater'],2011-07-22 00:00:00+00:00
 Biomphalaria havanensis,1,1,2011,['Freshwater'],2011-07-22 00:00:00+00:00
 Pachychilus oerstedi,0,3,2011,['Freshwater'],2011-07-22 00:00:00+00:00
 Anodontites trigonus,0,3,2011,['Freshwater'],2011-07-22 00:00:00+00:00
-Cerithidea pliculosa,1,3,2011,"['Marine', 'Freshwater']",2011-07-22 00:00:00+00:00
+Cerithidea pliculosa,1,3,2011,"['Freshwater', 'Marine']",2011-07-22 00:00:00+00:00
 Mayabina obtusa,0,3,2011,['Freshwater'],2011-07-22 00:00:00+00:00
-Melampus coffeus,1,3,2011,"['Marine', 'Freshwater']",2011-07-22 00:00:00+00:00
+Melampus coffeus,1,3,2011,"['Freshwater', 'Marine']",2011-07-22 00:00:00+00:00
 Physa marmorata,1,3,2011,['Freshwater'],2011-07-22 00:00:00+00:00
 Myxine hubbsi,1,3,2009,['Marine'],2009-11-12 00:00:00+00:00
 Eptatretus caribbeaus,1,3,2009,['Marine'],2009-11-09 00:00:00+00:00
@@ -1223,7 +1223,7 @@ Achirus declivis,1,3,2012,['Marine'],2012-08-24 00:00:00+00:00
 Saurida caribbaea,1,3,2013,['Marine'],2013-01-29 00:00:00+00:00
 Beryx splendens,1,3,2014,['Marine'],2014-04-14 00:00:00+00:00
 Antennarius pauciradiatus,1,3,2013,['Marine'],2013-01-29 00:00:00+00:00
-Oligoplites palometa,1,1,2012,"['Marine', 'Freshwater']",2012-08-21 00:00:00+00:00
+Oligoplites palometa,1,1,2012,"['Freshwater', 'Marine']",2012-08-21 00:00:00+00:00
 Citharichthys arenaceus,1,3,2013,['Marine'],2013-02-01 00:00:00+00:00
 Anchoa hepsetus,1,3,2012,['Marine'],2012-08-24 00:00:00+00:00
 Anchovia clupeoides,1,3,2012,['Marine'],2012-08-24 00:00:00+00:00
@@ -1349,7 +1349,7 @@ Xenolepidichthys dalgleishi,1,1,2013,['Marine'],2013-01-31 00:00:00+00:00
 Hippocampus reidi,2,0,2016,['Marine'],2016-10-04 00:00:00+00:00
 Prionurus punctatus,1,1,2010,['Marine'],2010-05-06 00:00:00+00:00
 Scarus guacamaia,2,0,2012,['Marine'],2012-05-24 00:00:00+00:00
-Bacopa monnieri,1,1,2012,"['Terrestrial', 'Freshwater']",2012-04-23 00:00:00+00:00
+Bacopa monnieri,1,1,2012,"['Freshwater', 'Terrestrial']",2012-04-23 00:00:00+00:00
 Sparisoma atomarium,1,3,2009,['Marine'],2009-09-15 00:00:00+00:00
 Cryptotomus roseus,1,3,2008,['Marine'],2008-06-13 00:00:00+00:00
 Sparisoma viride,1,3,2009,['Marine'],2009-09-15 00:00:00+00:00
@@ -1559,7 +1559,7 @@ Phyllostomus hastatus,1,1,2015,['Terrestrial'],2015-07-20 00:00:00+00:00
 Phyllostomus discolor,1,1,2015,['Terrestrial'],2015-07-20 00:00:00+00:00
 Odocoileus virginianus,1,1,2015,['Terrestrial'],2015-06-20 00:00:00+00:00
 Mazama temama,0,0,2015,['Terrestrial'],2015-06-20 00:00:00+00:00
-Chironectes minimus,1,0,2015,"['Terrestrial', 'Freshwater']",2015-08-05 00:00:00+00:00
+Chironectes minimus,1,0,2015,"['Freshwater', 'Terrestrial']",2015-08-05 00:00:00+00:00
 Marmosa alstoni,1,1,2016,['Terrestrial'],2016-02-09 00:00:00+00:00
 Marmosa mexicana,1,1,2016,['Terrestrial'],2016-06-27 00:00:00+00:00
 Caluromys derbianus,1,0,2015,['Terrestrial'],2015-02-20 00:00:00+00:00
@@ -1578,7 +1578,7 @@ Cryptotis tropicalis,0,3,2017,['Terrestrial'],2017-01-17 00:00:00+00:00
 Handleyomys saturatior,1,0,2017,['Terrestrial'],2017-01-16 00:00:00+00:00
 Transandinomys bolivaris,1,1,2016,['Terrestrial'],2016-01-28 00:00:00+00:00
 Tylomys nudicaudus,1,1,2016,['Terrestrial'],2016-10-11 00:00:00+00:00
-Rheomys thomasi,2,3,2017,"['Terrestrial', 'Freshwater']",2017-01-15 00:00:00+00:00
+Rheomys thomasi,2,3,2017,"['Freshwater', 'Terrestrial']",2017-01-15 00:00:00+00:00
 Peromyscus gymnotis,1,0,2016,['Terrestrial'],2016-01-25 00:00:00+00:00
 Peromyscus aztecus,1,1,2016,['Terrestrial'],2016-01-31 00:00:00+00:00
 Peromyscus stirtoni,1,1,2016,['Terrestrial'],2016-06-02 00:00:00+00:00
@@ -1611,10 +1611,10 @@ Dolopichthys allector,1,3,2013,['Marine'],2013-05-09 00:00:00+00:00
 Melanocetus murrayi,1,3,2013,['Marine'],2013-05-09 00:00:00+00:00
 Microlophichthys microlophus,1,3,2013,['Marine'],2013-05-09 00:00:00+00:00
 Dermochelys coriacea,3,0,2013,"['Marine', 'Terrestrial']",2013-06-21 00:00:00+00:00
-Trichechus manatus,3,3,2023,"['Marine', 'Freshwater']",2023-09-04 00:00:00+00:00
+Trichechus manatus,3,3,2023,"['Freshwater', 'Marine']",2023-09-04 00:00:00+00:00
 Tayassu pecari,3,0,2012,['Terrestrial'],2012-05-25 00:00:00+00:00
 Decapterus muroadsi,1,3,2015,['Marine'],2015-03-09 00:00:00+00:00
-Tapirus bairdii,4,0,2014,"['Terrestrial', 'Freshwater']",2014-11-17 00:00:00+00:00
+Tapirus bairdii,4,0,2014,"['Freshwater', 'Terrestrial']",2014-11-17 00:00:00+00:00
 Sylvilagus floridanus,1,3,2018,['Terrestrial'],2018-06-30 00:00:00+00:00
 Bassaricyon gabbii,1,0,2015,['Terrestrial'],2015-01-09 00:00:00+00:00
 Conepatus leuconotus,1,0,2015,['Terrestrial'],2015-03-01 00:00:00+00:00
@@ -1679,7 +1679,7 @@ Cosmocampus albirostris,1,3,2014,['Marine'],2014-01-10 00:00:00+00:00
 Cosmocampus brachycephalus,1,0,2014,['Marine'],2014-01-10 00:00:00+00:00
 Syngnathus pelagicus,1,3,2014,['Marine'],2014-07-15 00:00:00+00:00
 Synodus bondi,1,3,2014,['Marine'],2014-09-16 00:00:00+00:00
-Eugerres awlae,1,3,2014,"['Marine', 'Freshwater']",2014-01-10 00:00:00+00:00
+Eugerres awlae,1,3,2014,"['Freshwater', 'Marine']",2014-01-10 00:00:00+00:00
 Cabassous centralis,0,3,2013,['Terrestrial'],2013-10-02 00:00:00+00:00
 Cyclopes didactylus,1,3,2013,['Terrestrial'],2013-12-02 00:00:00+00:00
 Dasypus novemcinctus,1,1,2013,['Terrestrial'],2013-10-02 00:00:00+00:00
@@ -1777,36 +1777,36 @@ Coryphaeschna diapyra,1,3,2019,['Freshwater'],2019-03-18 00:00:00+00:00
 Neuraeschna maya,1,3,2019,['Freshwater'],2019-03-07 00:00:00+00:00
 Rhionaeschna cornigera,1,3,2020,['Freshwater'],2020-03-04 00:00:00+00:00
 Hetaerina cruentata,1,1,2020,['Freshwater'],2020-02-26 00:00:00+00:00
-Hetaerina miniata,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-09 00:00:00+00:00
+Hetaerina miniata,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-09 00:00:00+00:00
 Hetaerina occisa,1,1,2020,['Freshwater'],2020-02-27 00:00:00+00:00
 Acanthagrion trilobatum,1,3,2017,['Freshwater'],2017-10-31 00:00:00+00:00
-Argia adamsi,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Argia cupraurea,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Argia fissa,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Argia indicatrix,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
-Argia oculata,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
-Argia pulla,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-16 00:00:00+00:00
-Argia ulmeca,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
+Argia adamsi,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Argia cupraurea,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Argia fissa,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Argia indicatrix,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
+Argia oculata,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
+Argia pulla,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-16 00:00:00+00:00
+Argia ulmeca,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
 Ischnura capreolus,1,1,2019,['Freshwater'],2019-03-06 00:00:00+00:00
 Anatya guttata,1,3,2018,['Freshwater'],2018-01-10 00:00:00+00:00
 Brechmorhoga nubecula,1,3,2019,['Freshwater'],2019-02-05 00:00:00+00:00
-Dythemis sterilis,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-06 00:00:00+00:00
+Dythemis sterilis,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-06 00:00:00+00:00
 Elasmothemis cannacrioides,1,3,2019,['Freshwater'],2019-02-18 00:00:00+00:00
-Erythemis attala,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Erythrodiplax fervida,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Erythrodiplax umbrata,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Idiataphe amazonica,1,3,2020,"['Terrestrial', 'Freshwater']",2020-03-04 00:00:00+00:00
+Erythemis attala,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Erythrodiplax fervida,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Erythrodiplax umbrata,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Idiataphe amazonica,1,3,2020,"['Freshwater', 'Terrestrial']",2020-03-04 00:00:00+00:00
 Libellula herculea,1,3,2019,['Freshwater'],2019-02-04 00:00:00+00:00
-Miathyria simplex,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Micrathyria aequalis,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Micrathyria didyma,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
+Miathyria simplex,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Micrathyria aequalis,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Micrathyria didyma,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
 Micrathyria ocellata,1,3,2019,['Freshwater'],2019-03-05 00:00:00+00:00
 Nephepeltia flavifrons,1,3,2020,['Freshwater'],2020-02-27 00:00:00+00:00
-Oligoclada umbricola,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-20 00:00:00+00:00
-Orthemis discolor,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
+Oligoclada umbricola,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-20 00:00:00+00:00
+Orthemis discolor,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
 Perithemis mooma,1,1,2019,['Freshwater'],2019-03-04 00:00:00+00:00
-Psaironeura remissa,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Megaloprepus caerulatus,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-28 00:00:00+00:00
+Psaironeura remissa,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Megaloprepus caerulatus,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-28 00:00:00+00:00
 Neltuma juliflora,1,3,2022,['Terrestrial'],2022-09-05 00:00:00+00:00
 Balaenoptera acutorostrata,1,3,2018,['Marine'],2018-03-16 00:00:00+00:00
 Balaenoptera edeni,1,3,2017,['Marine'],2017-12-27 00:00:00+00:00
@@ -1832,79 +1832,79 @@ Herpailurus yagouaroundi,1,0,2014,['Terrestrial'],2014-05-09 00:00:00+00:00
 Leopardus wiedii,2,0,2014,['Terrestrial'],2014-05-10 00:00:00+00:00
 Bolitoglossa rufescens,1,1,2019,['Terrestrial'],2019-10-22 00:00:00+00:00
 Oedipina chortiorum,5,0,2019,['Terrestrial'],2019-08-22 00:00:00+00:00
-Incilius coccifer,1,1,2019,"['Terrestrial', 'Freshwater']",2019-10-16 00:00:00+00:00
-Incilius luetkenii,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Incilius valliceps,1,1,2019,"['Terrestrial', 'Freshwater']",2019-10-23 00:00:00+00:00
-Agalychnis moreletii,1,0,2016,"['Terrestrial', 'Freshwater']",2016-02-01 00:00:00+00:00
-Dendropsophus ebraccatus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Tlalocohyla loquax,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-25 00:00:00+00:00
-Tlalocohyla picta,1,2,2015,"['Terrestrial', 'Freshwater']",2015-05-21 00:00:00+00:00
-Plectrohyla guatemalensis,2,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Plectrohyla hartwegi,4,0,2019,"['Terrestrial', 'Freshwater']",2019-10-23 00:00:00+00:00
-Plectrohyla matudai,1,1,2016,"['Terrestrial', 'Freshwater']",2016-02-25 00:00:00+00:00
-Scinax staufferi,1,1,2014,"['Terrestrial', 'Freshwater']",2014-09-11 00:00:00+00:00
-Smilisca baudinii,1,1,2020,"['Terrestrial', 'Freshwater']",2020-11-25 00:00:00+00:00
-Triprion petasatus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-03-15 00:00:00+00:00
+Incilius coccifer,1,1,2019,"['Freshwater', 'Terrestrial']",2019-10-16 00:00:00+00:00
+Incilius luetkenii,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Incilius valliceps,1,1,2019,"['Freshwater', 'Terrestrial']",2019-10-23 00:00:00+00:00
+Agalychnis moreletii,1,0,2016,"['Freshwater', 'Terrestrial']",2016-02-01 00:00:00+00:00
+Dendropsophus ebraccatus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Tlalocohyla loquax,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-25 00:00:00+00:00
+Tlalocohyla picta,1,2,2015,"['Freshwater', 'Terrestrial']",2015-05-21 00:00:00+00:00
+Plectrohyla guatemalensis,2,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Plectrohyla hartwegi,4,0,2019,"['Freshwater', 'Terrestrial']",2019-10-23 00:00:00+00:00
+Plectrohyla matudai,1,1,2016,"['Freshwater', 'Terrestrial']",2016-02-25 00:00:00+00:00
+Scinax staufferi,1,1,2014,"['Freshwater', 'Terrestrial']",2014-09-11 00:00:00+00:00
+Smilisca baudinii,1,1,2020,"['Freshwater', 'Terrestrial']",2020-11-25 00:00:00+00:00
+Triprion petasatus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-03-15 00:00:00+00:00
 Craugastor laticeps,1,3,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
 Craugastor loki,1,1,2019,['Terrestrial'],2019-09-04 00:00:00+00:00
-Craugastor rupinius,1,0,2019,"['Terrestrial', 'Freshwater']",2019-01-23 00:00:00+00:00
-Leptodactylus fragilis,1,1,2020,"['Terrestrial', 'Freshwater']",2020-11-11 00:00:00+00:00
-Leptodactylus melanonotus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-11 00:00:00+00:00
-Engystomops pustulosus,1,1,2020,"['Terrestrial', 'Freshwater']",2020-02-26 00:00:00+00:00
-Gastrophryne elegans,1,1,2019,"['Terrestrial', 'Freshwater']",2019-10-23 00:00:00+00:00
-Hypopachus variolosus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-11 00:00:00+00:00
-Lithobates forreri,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Lithobates vaillanti,1,1,2016,"['Terrestrial', 'Freshwater']",2016-07-11 00:00:00+00:00
-Rhinophrynus dorsalis,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-18 00:00:00+00:00
+Craugastor rupinius,1,0,2019,"['Freshwater', 'Terrestrial']",2019-01-23 00:00:00+00:00
+Leptodactylus fragilis,1,1,2020,"['Freshwater', 'Terrestrial']",2020-11-11 00:00:00+00:00
+Leptodactylus melanonotus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-11 00:00:00+00:00
+Engystomops pustulosus,1,1,2020,"['Freshwater', 'Terrestrial']",2020-02-26 00:00:00+00:00
+Gastrophryne elegans,1,1,2019,"['Freshwater', 'Terrestrial']",2019-10-23 00:00:00+00:00
+Hypopachus variolosus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-11 00:00:00+00:00
+Lithobates forreri,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Lithobates vaillanti,1,1,2016,"['Freshwater', 'Terrestrial']",2016-07-11 00:00:00+00:00
+Rhinophrynus dorsalis,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-18 00:00:00+00:00
 Bolitoglossa mexicana,1,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Oedipina elongata,1,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Dermophis mexicanus,1,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Doryrhamphus excisus,1,3,2015,['Marine'],2015-08-27 00:00:00+00:00
 Pocillopora eydouxi,2,3,2008,['Marine'],2008-01-03 00:00:00+00:00
-Incilius coniferus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-09 00:00:00+00:00
-Espadarana prosoblepon,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Sachatamia albomaculata,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-09 00:00:00+00:00
-Teratohyla spinosa,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-05 00:00:00+00:00
-Hyalinobatrachium chirripoi,1,1,2020,"['Terrestrial', 'Freshwater']",2020-12-16 00:00:00+00:00
-Hyalinobatrachium colymbiphyllum,1,1,2019,"['Terrestrial', 'Freshwater']",2019-08-14 00:00:00+00:00
+Incilius coniferus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-09 00:00:00+00:00
+Espadarana prosoblepon,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Sachatamia albomaculata,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-09 00:00:00+00:00
+Teratohyla spinosa,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-05 00:00:00+00:00
+Hyalinobatrachium chirripoi,1,1,2020,"['Freshwater', 'Terrestrial']",2020-12-16 00:00:00+00:00
+Hyalinobatrachium colymbiphyllum,1,1,2019,"['Freshwater', 'Terrestrial']",2019-08-14 00:00:00+00:00
 Ecnomiohyla miliaria,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
-Scinax boulengeri,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Smilisca phaeota,1,2,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Smilisca sordida,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-05 00:00:00+00:00
+Scinax boulengeri,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Smilisca phaeota,1,2,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Smilisca sordida,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-05 00:00:00+00:00
 Craugastor fitzingeri,1,1,2019,['Terrestrial'],2019-09-04 00:00:00+00:00
 Pristimantis ridens,1,1,2019,['Terrestrial'],2019-09-05 00:00:00+00:00
 Gymnopis multiplicata,1,0,2014,['Terrestrial'],2014-06-19 00:00:00+00:00
-Leptodactylus savagei,1,1,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
-Rhinella chrysophora,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Incilius campbelli,1,1,2019,"['Terrestrial', 'Freshwater']",2019-03-15 00:00:00+00:00
-Incilius leucomyos,2,0,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
-Agalychnis saltator,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-06 00:00:00+00:00
-Duellmanohyla salvavida,4,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Exerodonta catracha,2,1,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
-Isthmohyla insolita,4,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Plectrohyla chrysopleura,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Plectrohyla exquisita,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Plectrohyla psiloderma,4,0,2019,"['Terrestrial', 'Freshwater']",2019-06-28 00:00:00+00:00
-Duellmanohyla salvadorensis,2,1,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
-Craugastor anciano,6,3,2019,"['Terrestrial', 'Freshwater']",2019-04-13 00:00:00+00:00
+Leptodactylus savagei,1,1,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
+Rhinella chrysophora,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Incilius campbelli,1,1,2019,"['Freshwater', 'Terrestrial']",2019-03-15 00:00:00+00:00
+Incilius leucomyos,2,0,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
+Agalychnis saltator,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-06 00:00:00+00:00
+Duellmanohyla salvavida,4,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Exerodonta catracha,2,1,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
+Isthmohyla insolita,4,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Plectrohyla chrysopleura,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Plectrohyla exquisita,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Plectrohyla psiloderma,4,0,2019,"['Freshwater', 'Terrestrial']",2019-06-28 00:00:00+00:00
+Duellmanohyla salvadorensis,2,1,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
+Craugastor anciano,6,3,2019,"['Freshwater', 'Terrestrial']",2019-04-13 00:00:00+00:00
 Craugastor chac,1,0,2019,['Terrestrial'],2019-08-20 00:00:00+00:00
-Craugastor cruzi,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Craugastor emleni,4,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Craugastor epochthidius,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Craugastor laevissimus,4,0,2019,"['Terrestrial', 'Freshwater']",2019-12-09 00:00:00+00:00
-Craugastor lauraster,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-10 00:00:00+00:00
-Craugastor merendonensis,5,3,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Craugastor milesi,5,3,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
+Craugastor cruzi,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Craugastor emleni,4,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Craugastor epochthidius,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Craugastor laevissimus,4,0,2019,"['Freshwater', 'Terrestrial']",2019-12-09 00:00:00+00:00
+Craugastor lauraster,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-10 00:00:00+00:00
+Craugastor merendonensis,5,3,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Craugastor milesi,5,3,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
 Craugastor mimus,1,3,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
-Craugastor olanchano,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Craugastor omoaensis,6,3,2019,"['Terrestrial', 'Freshwater']",2019-03-12 00:00:00+00:00
-Craugastor pechorum,4,0,2019,"['Terrestrial', 'Freshwater']",2019-02-28 00:00:00+00:00
+Craugastor olanchano,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Craugastor omoaensis,6,3,2019,"['Freshwater', 'Terrestrial']",2019-03-12 00:00:00+00:00
+Craugastor pechorum,4,0,2019,"['Freshwater', 'Terrestrial']",2019-02-28 00:00:00+00:00
 Eleutherodactylus planirostris,1,2,2020,['Terrestrial'],2020-07-22 00:00:00+00:00
 Craugastor rostralis,3,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
-Craugastor sabrinus,2,0,2016,"['Terrestrial', 'Freshwater']",2016-02-08 00:00:00+00:00
+Craugastor sabrinus,2,0,2016,"['Freshwater', 'Terrestrial']",2016-02-08 00:00:00+00:00
 Craugastor saltuarius,5,0,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
-Craugastor stadelmani,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Leptodactylus silvanimbus,5,0,2019,"['Terrestrial', 'Freshwater']",2019-11-11 00:00:00+00:00
+Craugastor stadelmani,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Leptodactylus silvanimbus,5,0,2019,"['Freshwater', 'Terrestrial']",2019-11-11 00:00:00+00:00
 Bolitoglossa carri,5,0,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
 Bolitoglossa celaque,5,1,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
 Bolitoglossa conanti,3,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
@@ -1919,11 +1919,11 @@ Nototriton barbouri,4,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
 Nototriton lignicola,4,0,2019,['Terrestrial'],2019-03-12 00:00:00+00:00
 Nototriton limnospectator,4,0,2019,['Terrestrial'],2019-03-12 00:00:00+00:00
 Oedipina ignea,4,3,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
-Incilius porteri,1,3,2019,"['Terrestrial', 'Freshwater']",2019-06-30 00:00:00+00:00
+Incilius porteri,1,3,2019,"['Freshwater', 'Terrestrial']",2019-06-30 00:00:00+00:00
 Craugastor nefrens,5,0,2019,['Terrestrial'],2019-08-20 00:00:00+00:00
 Bolitoglossa oresbia,5,0,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
 Oedipina tomasi,5,0,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
-Bromeliohyla melacaena,4,0,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
+Bromeliohyla melacaena,4,0,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
 Hippocampus ingens,3,0,2016,['Marine'],2016-12-05 00:00:00+00:00
 Chamaedorea arenbergiana,1,1,2021,['Terrestrial'],2021-07-26 00:00:00+00:00
 Chamaedorea woodsoniana,1,1,2021,['Terrestrial'],2021-07-15 00:00:00+00:00
@@ -1941,7 +1941,7 @@ Calamus brachysomus,1,3,2009,['Marine'],2009-12-03 00:00:00+00:00
 Echinochloa polystachya,1,1,2018,['Terrestrial'],2018-07-19 00:00:00+00:00
 Geonoma pinnatifrons,1,1,2021,['Terrestrial'],2021-07-15 00:00:00+00:00
 Pristis pectinata,5,0,2022,['Marine'],2022-03-09 00:00:00+00:00
-Pristis pristis,5,0,2022,"['Marine', 'Freshwater']",2022-02-02 00:00:00+00:00
+Pristis pristis,5,0,2022,"['Freshwater', 'Marine']",2022-02-02 00:00:00+00:00
 Chamaedorea seifrizii,1,1,2021,['Terrestrial'],2021-07-15 00:00:00+00:00
 Chamaedorea tepejilote,1,1,2021,['Terrestrial'],2021-07-15 00:00:00+00:00
 Geonoma undata,1,1,2021,['Terrestrial'],2021-07-15 00:00:00+00:00
@@ -2028,7 +2028,7 @@ Eustomias simplex,1,3,2014,['Marine'],2014-07-01 00:00:00+00:00
 Eustomias tenisoni,0,3,2015,['Marine'],2015-01-05 00:00:00+00:00
 Gnatholepis thompsoni,1,1,2014,['Marine'],2014-01-10 00:00:00+00:00
 Quercus bumelioides,1,3,2018,['Terrestrial'],2018-06-13 00:00:00+00:00
-Pantala flavescens,1,1,2015,"['Terrestrial', 'Freshwater']",2015-11-06 00:00:00+00:00
+Pantala flavescens,1,1,2015,"['Freshwater', 'Terrestrial']",2015-11-06 00:00:00+00:00
 Juncus effusus,1,1,2016,['Freshwater'],2016-06-21 00:00:00+00:00
 Alfaroa guatemalensis,2,1,2020,['Terrestrial'],2020-10-24 00:00:00+00:00
 Bactris gasipaes,1,3,2022,['Terrestrial'],2022-12-09 00:00:00+00:00
@@ -2036,11 +2036,11 @@ Geonoma deversa,1,3,2022,['Terrestrial'],2022-12-07 00:00:00+00:00
 Fistularia corneta,1,3,2016,['Marine'],2016-07-12 00:00:00+00:00
 Syngnathus auliscus,1,3,2016,['Marine'],2016-06-29 00:00:00+00:00
 Micrognathus crinitus,1,3,2014,['Marine'],2014-01-10 00:00:00+00:00
-Pseudophallus starksii,1,3,2015,"['Marine', 'Freshwater']",2015-11-26 00:00:00+00:00
-Pilea fontana,1,3,2015,"['Terrestrial', 'Freshwater']",2015-05-21 00:00:00+00:00
-Potamogeton amplifolius,1,3,2015,"['Terrestrial', 'Freshwater']",2015-05-22 00:00:00+00:00
-Saururus cernuus,1,3,2015,"['Terrestrial', 'Freshwater']",2015-05-29 00:00:00+00:00
-Trollius laxus,1,3,2015,"['Terrestrial', 'Freshwater']",2015-06-04 00:00:00+00:00
+Pseudophallus starksii,1,3,2015,"['Freshwater', 'Marine']",2015-11-26 00:00:00+00:00
+Pilea fontana,1,3,2015,"['Freshwater', 'Terrestrial']",2015-05-21 00:00:00+00:00
+Potamogeton amplifolius,1,3,2015,"['Freshwater', 'Terrestrial']",2015-05-22 00:00:00+00:00
+Saururus cernuus,1,3,2015,"['Freshwater', 'Terrestrial']",2015-05-29 00:00:00+00:00
+Trollius laxus,1,3,2015,"['Freshwater', 'Terrestrial']",2015-06-04 00:00:00+00:00
 Aspidosperma megalocarpon,1,1,2021,['Terrestrial'],2021-07-22 00:00:00+00:00
 Vitex gaumeri,1,3,2020,['Terrestrial'],2020-06-17 00:00:00+00:00
 Potamogeton nodosus,1,3,2016,['Freshwater'],2016-06-14 00:00:00+00:00
@@ -2080,29 +2080,29 @@ Mustelus lunulatus,1,3,2015,['Marine'],2015-01-26 00:00:00+00:00
 Amblyraja badia,1,3,2015,['Marine'],2015-11-25 00:00:00+00:00
 Urobatis halleri,1,1,2014,['Marine'],2014-11-25 00:00:00+00:00
 Hypanus dipterurus,3,0,2019,['Marine'],2019-02-08 00:00:00+00:00
-Orthemis ferruginea,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Pseudoleon superbus,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Ischnura ramburii,1,2,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Erythemis mithroides,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Triacanthagyna caribbea,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
-Remartinia luteipennis,1,1,2016,"['Terrestrial', 'Freshwater']",2016-05-05 00:00:00+00:00
+Orthemis ferruginea,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Pseudoleon superbus,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Ischnura ramburii,1,2,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Erythemis mithroides,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Triacanthagyna caribbea,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
+Remartinia luteipennis,1,1,2016,"['Freshwater', 'Terrestrial']",2016-05-05 00:00:00+00:00
 Scopelosaurus smithii,1,3,2013,['Marine'],2013-07-20 00:00:00+00:00
 Stemonosudis siliquiventer,1,3,2013,['Marine'],2013-05-08 00:00:00+00:00
 Cardiospermum halicacabum,1,1,2020,['Terrestrial'],2020-03-18 00:00:00+00:00
-Gobionellus oceanicus,1,1,2018,"['Marine', 'Freshwater']",2018-08-16 00:00:00+00:00
-Bathygobius soporator,1,3,2019,"['Marine', 'Freshwater']",2019-02-11 00:00:00+00:00
-Ctenogobius boleosoma,1,1,2019,"['Marine', 'Freshwater']",2019-02-11 00:00:00+00:00
-Dormitator maculatus,1,1,2019,"['Marine', 'Freshwater']",2019-02-11 00:00:00+00:00
-Eleotris amblyopsis,1,1,2018,"['Marine', 'Freshwater']",2018-12-06 00:00:00+00:00
-Eleotris perniger,1,3,2019,"['Marine', 'Freshwater']",2019-02-15 00:00:00+00:00
-Evorthodus lyricus,1,3,2019,"['Marine', 'Freshwater']",2019-02-12 00:00:00+00:00
-Gobiomorus dormitor,1,3,2019,"['Marine', 'Freshwater']",2019-02-15 00:00:00+00:00
-Guavina guavina,1,3,2019,"['Marine', 'Freshwater']",2019-03-03 00:00:00+00:00
-Mugil curema,1,3,2018,"['Marine', 'Freshwater']",2018-12-21 00:00:00+00:00
-Centropomus parallelus,1,3,2018,"['Marine', 'Freshwater']",2018-06-29 00:00:00+00:00
-Centropomus mexicanus,1,3,2019,"['Marine', 'Freshwater']",2019-02-07 00:00:00+00:00
-Centropomus pectinatus,1,3,2019,"['Marine', 'Freshwater']",2019-02-08 00:00:00+00:00
-Mugil trichodon,1,3,2018,"['Marine', 'Freshwater']",2018-12-21 00:00:00+00:00
+Gobionellus oceanicus,1,1,2018,"['Freshwater', 'Marine']",2018-08-16 00:00:00+00:00
+Bathygobius soporator,1,3,2019,"['Freshwater', 'Marine']",2019-02-11 00:00:00+00:00
+Ctenogobius boleosoma,1,1,2019,"['Freshwater', 'Marine']",2019-02-11 00:00:00+00:00
+Dormitator maculatus,1,1,2019,"['Freshwater', 'Marine']",2019-02-11 00:00:00+00:00
+Eleotris amblyopsis,1,1,2018,"['Freshwater', 'Marine']",2018-12-06 00:00:00+00:00
+Eleotris perniger,1,3,2019,"['Freshwater', 'Marine']",2019-02-15 00:00:00+00:00
+Evorthodus lyricus,1,3,2019,"['Freshwater', 'Marine']",2019-02-12 00:00:00+00:00
+Gobiomorus dormitor,1,3,2019,"['Freshwater', 'Marine']",2019-02-15 00:00:00+00:00
+Guavina guavina,1,3,2019,"['Freshwater', 'Marine']",2019-03-03 00:00:00+00:00
+Mugil curema,1,3,2018,"['Freshwater', 'Marine']",2018-12-21 00:00:00+00:00
+Centropomus parallelus,1,3,2018,"['Freshwater', 'Marine']",2018-06-29 00:00:00+00:00
+Centropomus mexicanus,1,3,2019,"['Freshwater', 'Marine']",2019-02-07 00:00:00+00:00
+Centropomus pectinatus,1,3,2019,"['Freshwater', 'Marine']",2019-02-08 00:00:00+00:00
+Mugil trichodon,1,3,2018,"['Freshwater', 'Marine']",2018-12-21 00:00:00+00:00
 Equetus lanceolatus,1,3,2019,['Marine'],2019-10-09 00:00:00+00:00
 Larimus breviceps,1,3,2019,['Marine'],2019-10-09 00:00:00+00:00
 Odontoscion dentex,1,3,2020,['Marine'],2020-01-23 00:00:00+00:00
@@ -2115,29 +2115,29 @@ Ophioscion punctatissimus,1,3,2020,['Marine'],2020-01-23 00:00:00+00:00
 Stellifer griseus,1,3,2020,['Marine'],2020-01-27 00:00:00+00:00
 Stellifer microps,1,3,2020,['Marine'],2020-01-27 00:00:00+00:00
 Stellifer stellifer,0,3,2020,['Marine'],2020-01-28 00:00:00+00:00
-Equisetum giganteum,1,3,2016,"['Terrestrial', 'Freshwater']",2016-05-19 00:00:00+00:00
-Juncus bufonius,1,1,2016,"['Terrestrial', 'Freshwater']",2016-06-09 00:00:00+00:00
+Equisetum giganteum,1,3,2016,"['Freshwater', 'Terrestrial']",2016-05-19 00:00:00+00:00
+Juncus bufonius,1,1,2016,"['Freshwater', 'Terrestrial']",2016-06-09 00:00:00+00:00
 Trachinocephalus myops,1,3,2019,['Marine'],2019-09-06 00:00:00+00:00
-Rhonciscus crocro,0,3,2018,"['Marine', 'Freshwater']",2018-12-06 00:00:00+00:00
-Oligoplites saurus,1,3,2018,"['Marine', 'Freshwater']",2018-09-07 00:00:00+00:00
-Caranx hippos,1,1,2018,"['Marine', 'Freshwater']",2018-09-10 00:00:00+00:00
-Caranx latus,1,1,2018,"['Marine', 'Freshwater']",2018-11-09 00:00:00+00:00
+Rhonciscus crocro,0,3,2018,"['Freshwater', 'Marine']",2018-12-06 00:00:00+00:00
+Oligoplites saurus,1,3,2018,"['Freshwater', 'Marine']",2018-09-07 00:00:00+00:00
+Caranx hippos,1,1,2018,"['Freshwater', 'Marine']",2018-09-10 00:00:00+00:00
+Caranx latus,1,1,2018,"['Freshwater', 'Marine']",2018-11-09 00:00:00+00:00
 Micropogonias furnieri,1,0,2019,['Marine'],2019-07-30 00:00:00+00:00
 Harengula jaguana,1,3,2018,['Marine'],2018-10-25 00:00:00+00:00
-Achirus lineatus,1,3,2018,"['Marine', 'Freshwater']",2018-05-01 00:00:00+00:00
-Trinectes paulistanus,1,3,2018,"['Marine', 'Freshwater']",2018-05-01 00:00:00+00:00
+Achirus lineatus,1,3,2018,"['Freshwater', 'Marine']",2018-05-01 00:00:00+00:00
+Trinectes paulistanus,1,3,2018,"['Freshwater', 'Marine']",2018-05-01 00:00:00+00:00
 Cyclopsetta chittendeni,1,3,2021,['Marine'],2021-02-13 00:00:00+00:00
 Cyclopsetta fimbriata,1,3,2021,['Marine'],2021-02-13 00:00:00+00:00
 Pellona harroweri,1,3,2017,['Marine'],2017-03-05 00:00:00+00:00
 Hyporhamphus unifasciatus,1,3,2019,['Marine'],2019-03-01 00:00:00+00:00
 Strongylura timucu,1,3,2018,['Marine'],2018-08-25 00:00:00+00:00
-Batrachoides gilberti,1,3,2018,"['Marine', 'Freshwater']",2018-11-07 00:00:00+00:00
+Batrachoides gilberti,1,3,2018,"['Freshwater', 'Marine']",2018-11-07 00:00:00+00:00
 Equetus punctatus,1,3,2019,['Marine'],2019-10-09 00:00:00+00:00
 Pareques umbrosus,1,3,2020,['Marine'],2020-01-24 00:00:00+00:00
 Protosciaena trewavasae,1,3,2020,['Marine'],2020-01-24 00:00:00+00:00
 Stellifer venezuelae,1,3,2020,['Marine'],2020-01-28 00:00:00+00:00
 Umbrina milliae,1,3,2020,['Marine'],2020-01-29 00:00:00+00:00
-Leptophilypnus fluviatilis,1,3,2020,"['Marine', 'Freshwater']",2020-02-06 00:00:00+00:00
+Leptophilypnus fluviatilis,1,3,2020,"['Freshwater', 'Marine']",2020-02-06 00:00:00+00:00
 Bathygobius curacao,1,3,2019,['Marine'],2019-02-11 00:00:00+00:00
 Sylvilagus gabbi,1,3,2018,['Terrestrial'],2018-05-31 00:00:00+00:00
 Eumops nanus,1,1,2016,['Terrestrial'],2016-10-26 00:00:00+00:00
@@ -2158,49 +2158,49 @@ Quercus gracilior,0,3,2020,['Terrestrial'],2020-09-02 00:00:00+00:00
 Nephila clavipes,1,1,2016,['Terrestrial'],2016-02-04 00:00:00+00:00
 Quercus corrugata,1,1,2018,['Terrestrial'],2018-04-16 00:00:00+00:00
 Lampropeltis abnorma,1,1,2016,['Terrestrial'],2016-04-06 00:00:00+00:00
-Dendrocygna bicolor,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Dendrocygna bicolor,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Melanerpes aurifrons,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Sphyrapicus varius,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Megascops trichopsis,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Strix fulvescens,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Athene cunicularia,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Columbina inca,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Aramus guarauna,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Porzana carolina,1,2,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Porphyrio martinicus,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Aramus guarauna,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Porzana carolina,1,2,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Porphyrio martinicus,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Haematopus palliatus,1,1,2016,"['Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Charadrius wilsonia,1,0,2016,"['Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
-Rynchops niger,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Rynchops niger,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Elanoides forficatus,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Elanus leucurus,1,2,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Elanus leucurus,1,2,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Buteo swainsoni,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Falco sparverius,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Falco sparverius,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Falco deiroleucus,2,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Anhinga anhinga,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Egretta tricolor,1,1,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Egretta thula,1,2,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Ixobrychus exilis,1,1,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Platalea ajaja,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Pelecanus erythrorhynchos,1,2,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Anhinga anhinga,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Egretta tricolor,1,1,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Egretta thula,1,2,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Ixobrychus exilis,1,1,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Platalea ajaja,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Pelecanus erythrorhynchos,1,2,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Coragyps atratus,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Mycteria americana,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Mycteria americana,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Platyrinchus coronatus,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Myiarchus tyrannulus,1,2,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Tyrannus savana,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Myiarchus tyrannulus,1,2,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Tyrannus savana,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Myiodynastes maculatus,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Ceratopipra mentalis,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Chiroxiphia linearis,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Dysithamnus striaticeps,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Myrmotherula axillaris,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Myrmotherula axillaris,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Phaenostictus mcleannani,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Dumetella carolinensis,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Cistothorus platensis,1,2,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Cistothorus platensis,1,2,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Henicorhina leucophrys,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Microcerculus philomela,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Polioptila caerulea,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Tachycineta bicolor,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Progne subis,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Petrochelidon pyrrhonota,1,2,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Tachycineta bicolor,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Progne subis,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Petrochelidon pyrrhonota,1,2,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Lanio aurantius,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Piranga rubra,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Piranga olivacea,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
@@ -2211,14 +2211,14 @@ Dolichonyx oryzivorus,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Patagioenas fasciata,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Colaptes mexicanoides,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Hylatomus lineatus,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Circus hudsonius,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Circus hudsonius,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Glaucidium griseiceps,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Psittacara rubritorquis,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Stelgidopteryx serripennis,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Stelgidopteryx serripennis,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Eupsittula astec,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Megascops guatemalae,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
-Gallinula galeata,1,1,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Fulica americana,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Gallinula galeata,1,1,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Fulica americana,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Sceloporus malachiticus,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Fraxinus uhdei,1,2,2017,['Terrestrial'],2017-01-24 00:00:00+00:00
 Zannichellia palustris,1,1,2011,['Freshwater'],2011-10-08 00:00:00+00:00
@@ -2268,12 +2268,12 @@ Anchoa argentivittata,1,3,2019,['Marine'],2019-11-01 00:00:00+00:00
 Anchoa eigenmannia,1,3,2019,['Marine'],2019-11-15 00:00:00+00:00
 Anchoa exigua,1,3,2019,['Marine'],2019-10-24 00:00:00+00:00
 Anchoa ischana,1,3,2019,['Marine'],2019-10-25 00:00:00+00:00
-Anchoa panamensis,1,3,2019,"['Marine', 'Freshwater']",2019-10-29 00:00:00+00:00
+Anchoa panamensis,1,3,2019,"['Freshwater', 'Marine']",2019-10-29 00:00:00+00:00
 Anchoa scofieldi,1,3,2019,['Marine'],2019-10-31 00:00:00+00:00
 Anchoa starksi,1,3,2019,['Marine'],2019-11-01 00:00:00+00:00
 Cetengraulis mysticetus,1,3,2019,['Marine'],2019-11-15 00:00:00+00:00
-Lycengraulis poeyi,1,3,2019,"['Marine', 'Freshwater']",2019-11-01 00:00:00+00:00
-Ilisha fuerthii,1,3,2017,"['Marine', 'Freshwater']",2017-03-06 00:00:00+00:00
+Lycengraulis poeyi,1,3,2019,"['Freshwater', 'Marine']",2019-11-01 00:00:00+00:00
+Ilisha fuerthii,1,3,2017,"['Freshwater', 'Marine']",2017-03-06 00:00:00+00:00
 Neoopisthopterus tropicus,1,3,2017,['Marine'],2017-03-05 00:00:00+00:00
 Odontognathus panamensis,1,3,2019,['Marine'],2019-11-13 00:00:00+00:00
 Opisthopterus dovii,1,3,2019,['Marine'],2019-11-04 00:00:00+00:00
@@ -2295,7 +2295,7 @@ Atya scabra,1,3,2012,['Freshwater'],2012-04-27 00:00:00+00:00
 Potimirim americana,0,3,2013,['Freshwater'],2013-01-21 00:00:00+00:00
 Potimirim glabra,1,1,2012,['Freshwater'],2012-04-27 00:00:00+00:00
 Vigna adenantha,1,1,2017,['Terrestrial'],2017-03-31 00:00:00+00:00
-Rhinella horribilis,1,2,2021,"['Terrestrial', 'Freshwater']",2021-11-10 00:00:00+00:00
+Rhinella horribilis,1,2,2021,"['Freshwater', 'Terrestrial']",2021-11-10 00:00:00+00:00
 Physalis minuta,1,1,2017,['Terrestrial'],2017-02-16 00:00:00+00:00
 Physalis nicandroides,1,1,2017,['Terrestrial'],2017-02-16 00:00:00+00:00
 Physalis philadelphica,1,1,2017,['Terrestrial'],2017-02-16 00:00:00+00:00
@@ -2309,7 +2309,7 @@ Battus lycidas,1,3,2018,['Terrestrial'],2018-04-05 00:00:00+00:00
 Battus polydamas,1,3,2018,['Terrestrial'],2018-04-05 00:00:00+00:00
 Papilio polyxenes,1,3,2020,['Terrestrial'],2020-05-07 00:00:00+00:00
 Parides sesostris,1,3,2019,['Terrestrial'],2019-07-22 00:00:00+00:00
-Contopus cooperi,2,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Contopus cooperi,2,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Loxia curvirostra,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Troglodytes aedon,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Corapipo leucorrhoa,1,0,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
@@ -2332,7 +2332,7 @@ Nyctomys sumichrasti,1,1,2016,['Terrestrial'],2016-09-06 00:00:00+00:00
 Oligoryzomys fulvescens,1,1,2016,['Terrestrial'],2016-08-11 00:00:00+00:00
 Orthogeomys hispidus,1,1,2016,['Terrestrial'],2016-08-14 00:00:00+00:00
 Handleyomys alfaroi,1,1,2016,['Terrestrial'],2016-09-11 00:00:00+00:00
-Oryzomys couesi,1,3,2016,"['Terrestrial', 'Freshwater']",2016-09-01 00:00:00+00:00
+Oryzomys couesi,1,3,2016,"['Freshwater', 'Terrestrial']",2016-09-01 00:00:00+00:00
 Handleyomys rostratus,1,1,2016,['Terrestrial'],2016-09-11 00:00:00+00:00
 Ototylomys phyllotis,1,1,2016,['Terrestrial'],2016-08-24 00:00:00+00:00
 Pteronotus personatus,1,1,2016,['Terrestrial'],2016-07-09 00:00:00+00:00
@@ -2347,7 +2347,7 @@ Orthogeomys grandis,1,1,2016,['Terrestrial'],2016-09-06 00:00:00+00:00
 Cryptotis merriami,1,1,2016,['Terrestrial'],2016-09-01 00:00:00+00:00
 Sigmodon hirsutus,1,2,2016,['Terrestrial'],2016-09-05 00:00:00+00:00
 Peprilus paru,1,3,2009,['Marine'],2009-02-04 00:00:00+00:00
-Erotelis armiger,0,3,2007,"['Marine', 'Freshwater']",2007-05-24 00:00:00+00:00
+Erotelis armiger,0,3,2007,"['Freshwater', 'Marine']",2007-05-24 00:00:00+00:00
 Polyipnus clarus,1,3,2009,['Marine'],2009-02-04 00:00:00+00:00
 Petrotyx sanguineus,1,3,2009,['Marine'],2009-02-04 00:00:00+00:00
 Serranus tigrinus,1,3,2009,['Marine'],2009-02-04 00:00:00+00:00
@@ -2445,7 +2445,7 @@ Kryptophanaron alfredi,1,3,2014,['Marine'],2014-09-10 00:00:00+00:00
 Sphyraena borealis,1,3,2013,['Marine'],2013-01-29 00:00:00+00:00
 Acanthurus tractus,1,3,2014,['Marine'],2014-01-09 00:00:00+00:00
 Heteromys desmarestianus,1,1,2016,['Terrestrial'],2016-08-07 00:00:00+00:00
-Pseudophallus mindii,0,3,2016,"['Marine', 'Freshwater']",2016-05-09 00:00:00+00:00
+Pseudophallus mindii,0,3,2016,"['Freshwater', 'Marine']",2016-05-09 00:00:00+00:00
 Oxycirrhites typus,1,3,2015,['Marine'],2015-03-03 00:00:00+00:00
 Hydrophis platurus,1,1,2009,['Marine'],2009-02-15 00:00:00+00:00
 Agave pachycentra,1,3,2018,['Terrestrial'],2018-02-08 00:00:00+00:00
@@ -2457,12 +2457,12 @@ Arbutus xalapensis,1,3,2020,['Terrestrial'],2020-08-21 00:00:00+00:00
 Spathacanthus hahnianus,1,0,2022,['Terrestrial'],2022-03-31 00:00:00+00:00
 Digitaria sacchariflora,1,3,2018,['Terrestrial'],2018-07-19 00:00:00+00:00
 Morphnus guianensis,2,0,2017,['Terrestrial'],2017-10-01 00:00:00+00:00
-Pachyramphus polychopterus,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Pachyramphus polychopterus,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Cosmocampus elucens,1,0,2014,['Marine'],2014-01-10 00:00:00+00:00
 Cyanocitta stelleri,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Cyanocorax yncas,1,2,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
 Tachycineta thalassina,1,2,2016,"['Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
-Egretta caerulea,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
+Egretta caerulea,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
 Acanthocereus tetragonus,1,1,2006,['Terrestrial'],2006-04-28 00:00:00+00:00
 Caretta caretta,3,0,2015,"['Marine', 'Terrestrial']",2015-08-23 00:00:00+00:00
 Cacicus microrhynchus,1,1,2016,['Terrestrial'],2016-10-01 00:00:00+00:00
@@ -2473,7 +2473,7 @@ Amphipteryx meridionalis,1,3,2017,['Freshwater'],2017-10-26 00:00:00+00:00
 Tetrorchidium brevifolium,1,3,2019,['Terrestrial'],2019-07-03 00:00:00+00:00
 Argia funebris,1,3,2018,['Freshwater'],2018-03-18 00:00:00+00:00
 Neoneura paya,1,3,2017,['Freshwater'],2017-10-31 00:00:00+00:00
-Telebasis boomsmae,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-23 00:00:00+00:00
+Telebasis boomsmae,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-23 00:00:00+00:00
 Argia johannella,1,3,2018,['Freshwater'],2018-01-10 00:00:00+00:00
 Philogenia strigilis,1,3,2018,['Freshwater'],2018-03-29 00:00:00+00:00
 Henriettea cuneata,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -2557,15 +2557,15 @@ Urotrygon munda,2,0,2020,['Marine'],2020-02-24 00:00:00+00:00
 Urotrygon nana,2,0,2020,['Marine'],2020-02-24 00:00:00+00:00
 Gymnura crebripunctata,2,0,2019,['Marine'],2019-02-08 00:00:00+00:00
 Lachnolaimus maximus,3,0,2009,['Marine'],2009-02-04 00:00:00+00:00
-Phyllogomphoides bifasciatus,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-27 00:00:00+00:00
-Palaemnema angelina,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Archilestes latialatus,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Argia chelata,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Argia elongata,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-05 00:00:00+00:00
-Argia funcki,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Argia gaumeri,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-05 00:00:00+00:00
-Argia pipila,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
-Heteragrion alienum,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-04 00:00:00+00:00
+Phyllogomphoides bifasciatus,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-27 00:00:00+00:00
+Palaemnema angelina,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Archilestes latialatus,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Argia chelata,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Argia elongata,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-05 00:00:00+00:00
+Argia funcki,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Argia gaumeri,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-05 00:00:00+00:00
+Argia pipila,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
+Heteragrion alienum,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-04 00:00:00+00:00
 Pisonia donnellsmithii,2,0,2022,['Terrestrial'],2022-07-25 00:00:00+00:00
 Ouratea insulae,3,0,2020,['Terrestrial'],2020-04-06 00:00:00+00:00
 Blepharidium guatemalense,1,1,2020,['Terrestrial'],2020-11-12 00:00:00+00:00
@@ -2636,7 +2636,7 @@ Neoscopelus microchir,1,3,2018,['Marine'],2018-06-29 00:00:00+00:00
 Sphagemacrurus grenadae,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
 Bathyclupea schroederi,1,3,2018,['Marine'],2018-10-12 00:00:00+00:00
 Rhadinella godmani,1,3,2005,['Terrestrial'],2005-09-15 00:00:00+00:00
-Trinectes maculatus,1,1,2018,"['Marine', 'Freshwater']",2018-10-04 00:00:00+00:00
+Trinectes maculatus,1,1,2018,"['Freshwater', 'Marine']",2018-10-04 00:00:00+00:00
 Glossophaga leachii,1,1,2016,['Terrestrial'],2016-07-04 00:00:00+00:00
 Lampadena urophaos,1,3,2018,['Marine'],2018-06-28 00:00:00+00:00
 Bolinichthys longipes,1,3,2018,['Marine'],2018-06-25 00:00:00+00:00
@@ -2649,24 +2649,24 @@ Lampanyctus steinbecki,1,3,2018,['Marine'],2018-06-28 00:00:00+00:00
 Triphoturus mexicanus,1,3,2018,['Marine'],2018-06-29 00:00:00+00:00
 Parvilux boschmai,1,3,2018,['Marine'],2018-06-29 00:00:00+00:00
 Elops affinis,0,3,2018,['Marine'],2018-08-08 00:00:00+00:00
-Dajaus monticola,1,1,2019,"['Marine', 'Freshwater']",2019-01-15 00:00:00+00:00
-Anguilla rostrata,4,1,2020,"['Marine', 'Freshwater']",2020-11-08 00:00:00+00:00
+Dajaus monticola,1,1,2019,"['Freshwater', 'Marine']",2019-01-15 00:00:00+00:00
+Anguilla rostrata,4,1,2020,"['Freshwater', 'Marine']",2020-11-08 00:00:00+00:00
 Dendrogyra cylindrus,5,0,2021,['Marine'],2021-06-01 00:00:00+00:00
 Persea caerulea,1,3,2017,['Terrestrial'],2017-02-14 00:00:00+00:00
 Lophiodes monodi,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
 Pseudoscopelus obtusifrons,1,3,2018,['Marine'],2018-10-12 00:00:00+00:00
 Trachonurus sulcatus,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
 Dorosoma anale,1,3,2018,['Freshwater'],2018-10-24 00:00:00+00:00
-Microphis brachyurus,1,3,2019,"['Marine', 'Freshwater']",2019-01-17 00:00:00+00:00
+Microphis brachyurus,1,3,2019,"['Freshwater', 'Marine']",2019-01-17 00:00:00+00:00
 Trogon melanocephalus,1,0,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
 Trogon mexicanus,1,0,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
 Lampornis sybillae,1,0,2018,['Terrestrial'],2018-08-06 00:00:00+00:00
 Heliothryx barroti,1,0,2018,['Terrestrial'],2018-08-06 00:00:00+00:00
-Ciccaba nigrolineata,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-06 00:00:00+00:00
+Ciccaba nigrolineata,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-06 00:00:00+00:00
 Lophostrix cristata,1,0,2018,['Terrestrial'],2018-08-06 00:00:00+00:00
-Pulsatrix perspicillata,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
-Cochlearius cochlearius,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-06 00:00:00+00:00
-Tigrisoma mexicanum,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
+Pulsatrix perspicillata,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-07 00:00:00+00:00
+Cochlearius cochlearius,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-06 00:00:00+00:00
+Tigrisoma mexicanum,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Platyrinchus cancrominus,1,0,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
 Epinecrophylla fulviventris,1,0,2018,['Terrestrial'],2018-08-06 00:00:00+00:00
 Piprites griseiceps,1,0,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
@@ -2728,9 +2728,9 @@ Tillandsia usneoides,1,1,2019,['Terrestrial'],2019-02-04 00:00:00+00:00
 Passerina ciris,1,1,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
 Polyipnus laternatus,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
 Chaetura pelagica,3,0,2018,['Terrestrial'],2018-08-07 00:00:00+00:00
-Cairina moschata,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Cairina moschata,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Amazona albifrons,1,2,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
-Falco femoralis,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Falco femoralis,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Cathartes aura,1,1,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Catharus mexicanus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Catharus fuscescens,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
@@ -2739,11 +2739,11 @@ Cyphorhinus phaeocephalus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Eucometis penicillata,1,1,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Cyanerpes lucidus,1,1,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Icterus galbula,1,1,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
-Agelaius phoeniceus,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Agelaius phoeniceus,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Amazona autumnalis,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Bubo virginianus,1,1,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Amaurospiza moesta,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
-Nyctanassa violacea,1,1,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Nyctanassa violacea,1,1,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Pitangus sulphuratus,1,2,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Myadestes unicolor,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Turdus infuscatus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
@@ -2752,33 +2752,33 @@ Turdus rufitorques,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Pheugopedius atrogularis,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Troglodytes rufociliatus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Spinus psaltria,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
-Vermivora chrysoptera,2,0,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Vermivora chrysoptera,2,0,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Sporophila schistacea,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Pheucticus ludovicianus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Passerina caerulea,1,2,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Passerina cyanea,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
-Quiscalus mexicanus,1,1,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
-Oxyura jamaicensis,1,0,2018,"['Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Quiscalus mexicanus,1,1,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
+Oxyura jamaicensis,1,0,2018,"['Freshwater', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Sicalis luteola,1,2,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Psittacara holochlorus,1,0,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Thryothorus albinucha,1,2,2018,['Terrestrial'],2018-08-09 00:00:00+00:00
 Sterna dougallii,1,3,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
-Larus delawarensis,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-08 00:00:00+00:00
-Larus atricilla,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-08 00:00:00+00:00
-Larus pipixcan,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-08 00:00:00+00:00
+Larus delawarensis,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-08 00:00:00+00:00
+Larus atricilla,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-08 00:00:00+00:00
+Larus pipixcan,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-08 00:00:00+00:00
 Thalasseus maximus,1,1,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
-Sterna forsteri,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
+Sterna forsteri,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Sternula antillarum,1,0,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Sula leucogaster,1,0,2018,"['Marine', 'Terrestrial']",2018-08-10 00:00:00+00:00
 Pterodroma phaeopygia,5,0,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Ardenna creatopus,3,3,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Hydrobates microsoma,1,1,2018,"['Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
-Pelecanus occidentalis,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
+Pelecanus occidentalis,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-09 00:00:00+00:00
 Sula dactylatra,1,0,2018,['Marine'],2018-08-10 00:00:00+00:00
 Rhamdia laticauda,1,3,2018,['Freshwater'],2018-09-05 00:00:00+00:00
-Ophisternon aenigmaticum,1,3,2018,"['Marine', 'Freshwater']",2018-09-11 00:00:00+00:00
+Ophisternon aenigmaticum,1,3,2018,"['Freshwater', 'Marine']",2018-09-11 00:00:00+00:00
 Pernettya prostrata,1,1,2018,['Terrestrial'],2018-11-23 00:00:00+00:00
-Nannopterum brasilianum,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
+Nannopterum brasilianum,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
 Malacanthus plumieri,1,3,2013,['Marine'],2013-01-29 00:00:00+00:00
 Coelorinchus caribbaeus,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
 Hymenocephalus aterrimus,1,3,2018,['Marine'],2018-10-09 00:00:00+00:00
@@ -2942,19 +2942,19 @@ Croton xalapensis,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Cupania glabra,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Inga vera,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Habia fuscicauda,1,0,2020,['Terrestrial'],2020-01-24 00:00:00+00:00
-Melospiza lincolnii,1,1,2020,"['Terrestrial', 'Freshwater']",2020-11-09 00:00:00+00:00
+Melospiza lincolnii,1,1,2020,"['Freshwater', 'Terrestrial']",2020-11-09 00:00:00+00:00
 Crypturellus soui,1,0,2020,['Terrestrial'],2020-10-02 00:00:00+00:00
 Crypturellus boucardi,3,0,2021,['Terrestrial'],2021-10-10 00:00:00+00:00
 Peucaea ruficauda,1,1,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Melozone biarcuata,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Aimophila rufescens,1,1,2020,['Terrestrial'],2020-01-30 00:00:00+00:00
 Arremon aurantiirostris,1,0,2020,['Terrestrial'],2020-01-30 00:00:00+00:00
-Ortalis leucogastra,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-08 00:00:00+00:00
+Ortalis leucogastra,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-08 00:00:00+00:00
 Ortalis cinereiceps,1,1,2020,['Terrestrial'],2020-10-08 00:00:00+00:00
 Saltator grossus,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Saltator maximus,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Saltator atriceps,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
-Sporophila minuta,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-07 00:00:00+00:00
+Sporophila minuta,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-07 00:00:00+00:00
 Sporophila funerea,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Coereba flaveola,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Dacnis cayana,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
@@ -2962,11 +2962,11 @@ Lanio leucothorax,2,0,2021,['Terrestrial'],2021-10-12 00:00:00+00:00
 Chlorophanes spiza,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Myioborus pictus,1,0,2020,['Terrestrial'],2020-02-19 00:00:00+00:00
 Cardellina rubrifrons,1,0,2022,['Terrestrial'],2022-09-01 00:00:00+00:00
-Cardellina pusilla,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-27 00:00:00+00:00
+Cardellina pusilla,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-27 00:00:00+00:00
 Cardellina canadensis,1,0,2020,['Terrestrial'],2020-10-28 00:00:00+00:00
 Basileuterus belli,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Basileuterus lachrymosus,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
-Myiothlypis fulvicauda,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-09 00:00:00+00:00
+Myiothlypis fulvicauda,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-09 00:00:00+00:00
 Setophaga townsendi,1,0,2020,['Terrestrial'],2020-10-27 00:00:00+00:00
 Setophaga graciae,1,0,2020,['Terrestrial'],2020-10-27 00:00:00+00:00
 Setophaga discolor,1,0,2020,['Terrestrial'],2020-10-27 00:00:00+00:00
@@ -2977,7 +2977,7 @@ Setophaga magnolia,1,2,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Setophaga tigrina,1,2,2018,['Terrestrial'],2018-10-26 00:00:00+00:00
 Setophaga ruticilla,1,2,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Setophaga citrina,1,2,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
-Geothlypis trichas,1,0,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-10-26 00:00:00+00:00
+Geothlypis trichas,1,0,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-10-26 00:00:00+00:00
 Geothlypis formosa,1,0,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Geothlypis philadelphia,1,0,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Geothlypis poliocephala,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
@@ -2985,8 +2985,8 @@ Leiothlypis peregrina,1,0,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Oreothlypis superciliosa,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Protonotaria citrea,1,0,2020,['Terrestrial'],2020-10-23 00:00:00+00:00
 Mniotilta varia,1,1,2020,['Terrestrial'],2020-10-19 00:00:00+00:00
-Parkesia noveboracensis,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-16 00:00:00+00:00
-Parkesia motacilla,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-16 00:00:00+00:00
+Parkesia noveboracensis,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-16 00:00:00+00:00
+Parkesia motacilla,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-16 00:00:00+00:00
 Helmitheros vermivorum,1,2,2020,['Terrestrial'],2020-10-16 00:00:00+00:00
 Saurauia scabrida,2,0,2021,['Terrestrial'],2021-04-26 00:00:00+00:00
 Saurauia leucocarpa,3,0,2021,['Terrestrial'],2021-04-24 00:00:00+00:00
@@ -3002,19 +3002,19 @@ Borostomias panamensis,1,3,2019,['Marine'],2019-07-18 00:00:00+00:00
 Chauliodus barbatus,1,3,2019,['Marine'],2019-07-18 00:00:00+00:00
 Cherublemma emmelas,1,3,2019,['Marine'],2019-08-16 00:00:00+00:00
 Cyclothone signata,1,3,2019,['Marine'],2019-07-15 00:00:00+00:00
-Bombycilla cedrorum,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-29 00:00:00+00:00
+Bombycilla cedrorum,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-29 00:00:00+00:00
 Danaphos oculatus,1,3,2019,['Marine'],2019-07-16 00:00:00+00:00
 Dicrolene filamentosa,1,3,2019,['Marine'],2019-08-16 00:00:00+00:00
 Diplophos proximus,1,3,2019,['Marine'],2019-07-15 00:00:00+00:00
 Catharus minimus,1,0,2020,['Terrestrial'],2020-11-11 00:00:00+00:00
 Eustomias perplexus,1,3,2019,['Marine'],2019-08-13 00:00:00+00:00
-Myadestes occidentalis,1,0,2020,"['Terrestrial', 'Freshwater']",2020-11-10 00:00:00+00:00
+Myadestes occidentalis,1,0,2020,"['Freshwater', 'Terrestrial']",2020-11-10 00:00:00+00:00
 Holcomycteronus digittatus,1,3,2019,['Marine'],2019-08-16 00:00:00+00:00
 Idiacanthus antrostomus,1,3,2019,['Marine'],2019-08-13 00:00:00+00:00
 Melamphaes acanthomus,1,3,2019,['Marine'],2019-12-30 00:00:00+00:00
 Melamphaes laeviceps,1,3,2019,['Marine'],2019-12-30 00:00:00+00:00
 Melamphaes macrocephalus,1,3,2019,['Marine'],2019-12-30 00:00:00+00:00
-Cinclus mexicanus,1,0,2021,"['Terrestrial', 'Freshwater']",2021-08-05 00:00:00+00:00
+Cinclus mexicanus,1,0,2021,"['Freshwater', 'Terrestrial']",2021-08-05 00:00:00+00:00
 Thryophilus pleurostictus,1,0,2020,['Terrestrial'],2020-11-03 00:00:00+00:00
 Salpinctes obsoletus,1,0,2020,['Terrestrial'],2020-11-02 00:00:00+00:00
 Certhia americana,1,2,2020,['Terrestrial'],2020-10-29 00:00:00+00:00
@@ -3023,25 +3023,25 @@ Inga edulis,1,3,2018,['Terrestrial'],2018-11-14 00:00:00+00:00
 Inga leiocalycina,1,3,2018,['Terrestrial'],2018-12-19 00:00:00+00:00
 Inga nobilis,1,3,2018,['Terrestrial'],2018-11-14 00:00:00+00:00
 Inga thibaudiana,1,3,2019,['Terrestrial'],2019-01-25 00:00:00+00:00
-Hirundo rustica,1,0,2018,"['Terrestrial', 'Freshwater']",2018-11-05 00:00:00+00:00
+Hirundo rustica,1,0,2018,"['Freshwater', 'Terrestrial']",2018-11-05 00:00:00+00:00
 Vachellia pennatula,1,1,2022,['Terrestrial'],2022-05-06 00:00:00+00:00
 Petrochelidon fulva,1,2,2018,['Terrestrial'],2018-11-05 00:00:00+00:00
-Stelgidopteryx ruficollis,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-02 00:00:00+00:00
+Stelgidopteryx ruficollis,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-02 00:00:00+00:00
 Atticora pileata,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
-Tachycineta albilinea,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-02 00:00:00+00:00
+Tachycineta albilinea,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-02 00:00:00+00:00
 Penelope purpurascens,2,0,2021,['Terrestrial'],2021-03-15 00:00:00+00:00
-Progne chalybea,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-02 00:00:00+00:00
+Progne chalybea,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-02 00:00:00+00:00
 Rhynchortyx cinctus,2,0,2021,['Terrestrial'],2021-09-29 00:00:00+00:00
 Dendrortyx leucophrys,1,0,2020,['Terrestrial'],2020-11-04 00:00:00+00:00
 Aphelocoma unicolor,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
-Spatula discors,1,2,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-11-12 00:00:00+00:00
+Spatula discors,1,2,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-11-12 00:00:00+00:00
 Colinus nigrogularis,1,0,2020,['Terrestrial'],2020-11-04 00:00:00+00:00
 Colinus leucopogon,1,1,2020,['Terrestrial'],2020-11-04 00:00:00+00:00
 Cyanocorax morio,1,1,2020,['Terrestrial'],2020-02-19 00:00:00+00:00
 Cyanocorax formosus,1,1,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Cyanolyca cucullata,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Cyanolyca pumilo,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
-Nomonyx dominicus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-11-29 00:00:00+00:00
+Nomonyx dominicus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-11-29 00:00:00+00:00
 Vireo olivaceus,1,2,2019,['Terrestrial'],2019-08-01 00:00:00+00:00
 Dactylortyx thoracicus,1,0,2020,['Terrestrial'],2020-11-04 00:00:00+00:00
 Vireo gilvus,1,2,2020,['Terrestrial'],2020-11-12 00:00:00+00:00
@@ -3054,46 +3054,46 @@ Manacus candei,1,0,2020,['Terrestrial'],2020-10-09 00:00:00+00:00
 Carpodectes nitidus,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Lipaugus unirufus,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Cotinga amabilis,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
-Pachyramphus aglaiae,1,0,2022,"['Terrestrial', 'Freshwater']",2022-08-22 00:00:00+00:00
-Pachyramphus cinnamomeus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-13 00:00:00+00:00
+Pachyramphus aglaiae,1,0,2022,"['Freshwater', 'Terrestrial']",2022-08-22 00:00:00+00:00
+Pachyramphus cinnamomeus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-13 00:00:00+00:00
 Odontophorus guttatus,1,0,2020,['Terrestrial'],2020-11-04 00:00:00+00:00
-Tityra inquisitor,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-13 00:00:00+00:00
-Aythya collaris,1,2,2020,"['Terrestrial', 'Freshwater']",2020-11-13 00:00:00+00:00
-Laniocera rufescens,1,0,2022,"['Terrestrial', 'Freshwater']",2022-07-18 00:00:00+00:00
+Tityra inquisitor,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-13 00:00:00+00:00
+Aythya collaris,1,2,2020,"['Freshwater', 'Terrestrial']",2020-11-13 00:00:00+00:00
+Laniocera rufescens,1,0,2022,"['Freshwater', 'Terrestrial']",2022-07-18 00:00:00+00:00
 Schiffornis veraepacis,1,0,2022,['Terrestrial'],2022-07-15 00:00:00+00:00
 Tyrannus forficatus,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
-Tyrannus tyrannus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
+Tyrannus tyrannus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
 Tyrannus verticalis,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
-Tyrannus melancholicus,1,2,2022,"['Terrestrial', 'Freshwater']",2022-08-23 00:00:00+00:00
-Myiodynastes luteiventris,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
-Conopias albovittatus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
-Myiozetetes granadensis,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
+Tyrannus melancholicus,1,2,2022,"['Freshwater', 'Terrestrial']",2022-08-23 00:00:00+00:00
+Myiodynastes luteiventris,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
+Conopias albovittatus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
+Myiozetetes granadensis,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
 Myiozetetes similis,1,1,2022,['Terrestrial'],2022-08-23 00:00:00+00:00
 Megarynchus pitangua,1,1,2020,['Terrestrial'],2020-02-13 00:00:00+00:00
-Myiarchus crinitus,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
+Myiarchus crinitus,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
 Myiarchus nuttingi,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
-Myiarchus cinerascens,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
-Myiarchus tuberculifer,1,0,2022,"['Terrestrial', 'Freshwater']",2022-09-01 00:00:00+00:00
+Myiarchus cinerascens,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
+Myiarchus tuberculifer,1,0,2022,"['Freshwater', 'Terrestrial']",2022-09-01 00:00:00+00:00
 Rhytipterna holerythra,1,0,2022,['Terrestrial'],2022-08-18 00:00:00+00:00
 Attila spadiceus,1,0,2020,['Terrestrial'],2020-02-13 00:00:00+00:00
 Colonia colonus,1,1,2020,['Terrestrial'],2020-02-13 00:00:00+00:00
-Sayornis nigricans,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
+Sayornis nigricans,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
 Empidonax fulvifrons,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
 Empidonax flavescens,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
 Empidonax hammondii,1,2,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
 Empidonax minimus,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
-Empidonax albigularis,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
-Empidonax traillii,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
-Empidonax alnorum,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
-Empidonax virescens,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
-Empidonax flaviventris,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
+Empidonax albigularis,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
+Empidonax traillii,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
+Empidonax alnorum,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
+Empidonax virescens,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
+Empidonax flaviventris,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
 Contopus virens,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
 Contopus sordidulus,1,0,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
 Contopus pertinax,1,0,2022,['Terrestrial'],2022-06-27 00:00:00+00:00
-Mitrephanes phaeocercus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-15 00:00:00+00:00
+Mitrephanes phaeocercus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-15 00:00:00+00:00
 Myiobius sulphureipygius,1,0,2023,['Terrestrial'],2023-11-03 00:00:00+00:00
 Terenotriccus erythrurus,1,0,2022,['Terrestrial'],2022-07-15 00:00:00+00:00
-Tolmomyias sulphurescens,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-12 00:00:00+00:00
+Tolmomyias sulphurescens,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-12 00:00:00+00:00
 Rhynchocyclus brevirostris,1,0,2022,['Terrestrial'],2022-08-17 00:00:00+00:00
 Todirostrum cinereum,1,1,2020,['Terrestrial'],2020-02-12 00:00:00+00:00
 Poecilotriccus sylvia,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
@@ -3101,18 +3101,18 @@ Oncostoma cinereigulare,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
 Lophotriccus pileatus,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
 Leucaena lempirana,4,0,2018,['Terrestrial'],2018-11-19 00:00:00+00:00
 Elaenia frantzii,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
-Elaenia flavogaster,1,1,2020,"['Terrestrial', 'Freshwater']",2020-02-12 00:00:00+00:00
+Elaenia flavogaster,1,1,2020,"['Freshwater', 'Terrestrial']",2020-02-12 00:00:00+00:00
 Myiopagis viridicata,1,0,2022,['Terrestrial'],2022-09-01 00:00:00+00:00
-Camptostoma imberbe,1,0,2020,"['Terrestrial', 'Freshwater']",2020-10-14 00:00:00+00:00
+Camptostoma imberbe,1,0,2020,"['Freshwater', 'Terrestrial']",2020-10-14 00:00:00+00:00
 Ornithion semiflavum,1,0,2022,['Terrestrial'],2022-07-15 00:00:00+00:00
 Sclerurus guatemalensis,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Dendrocincla homochroa,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Synallaxis erythrothorax,1,1,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
-Synallaxis brachyura,1,1,2020,"['Terrestrial', 'Freshwater']",2020-02-14 00:00:00+00:00
+Synallaxis brachyura,1,1,2020,"['Freshwater', 'Terrestrial']",2020-02-14 00:00:00+00:00
 Clibanornis rubiginosus,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Anabacerthia variegaticeps,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Lepidocolaptes souleyetii,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
-Xiphorhynchus flavigaster,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-14 00:00:00+00:00
+Xiphorhynchus flavigaster,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-14 00:00:00+00:00
 Xiphorhynchus susurrans,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Dendrocincla fuliginosa,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Dendrocincla anabatina,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
@@ -3122,7 +3122,7 @@ Icterus prosthemelas,1,0,2020,['Terrestrial'],2020-01-31 00:00:00+00:00
 Icterus wagleri,1,0,2020,['Terrestrial'],2020-01-31 00:00:00+00:00
 Molothrus oryzivorus,1,0,2020,['Terrestrial'],2020-01-31 00:00:00+00:00
 Habia rubica,1,0,2020,['Terrestrial'],2020-01-24 00:00:00+00:00
-Numenius phaeopus,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-04 00:00:00+00:00
+Numenius phaeopus,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-04 00:00:00+00:00
 Piranga leucoptera,1,0,2018,['Terrestrial'],2018-11-21 00:00:00+00:00
 Piranga bidentata,1,0,2020,['Terrestrial'],2020-01-24 00:00:00+00:00
 Piranga hepatica,1,2,2018,['Terrestrial'],2018-11-21 00:00:00+00:00
@@ -3136,7 +3136,7 @@ Peucaea botterii,1,1,2020,['Terrestrial'],2020-02-19 00:00:00+00:00
 Atlapetes albinucha,1,0,2020,['Terrestrial'],2020-01-30 00:00:00+00:00
 Arremonops chloronotus,1,0,2020,['Terrestrial'],2020-01-30 00:00:00+00:00
 Melozone leucotis,1,0,2020,['Terrestrial'],2020-01-30 00:00:00+00:00
-Saltator grandis,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-07 00:00:00+00:00
+Saltator grandis,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-07 00:00:00+00:00
 Sporophila corvina,1,1,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Tiaris olivaceus,1,2,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Ortalis vetula,1,1,2020,['Terrestrial'],2020-10-08 00:00:00+00:00
@@ -3147,16 +3147,16 @@ Tangara abbas,1,2,2020,['Terrestrial'],2020-01-31 00:00:00+00:00
 Icteria virens,1,0,2020,['Terrestrial'],2020-10-16 00:00:00+00:00
 Myioborus miniatus,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Basileuterus rufifrons,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
-Setophaga virens,1,1,2020,"['Terrestrial', 'Freshwater']",2020-10-27 00:00:00+00:00
+Setophaga virens,1,1,2020,"['Freshwater', 'Terrestrial']",2020-10-27 00:00:00+00:00
 Setophaga occidentalis,1,1,2020,['Terrestrial'],2020-10-27 00:00:00+00:00
-Setophaga dominica,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-27 00:00:00+00:00
-Setophaga palmarum,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-27 00:00:00+00:00
+Setophaga dominica,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-27 00:00:00+00:00
+Setophaga palmarum,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-27 00:00:00+00:00
 Setophaga caerulescens,1,2,2020,['Terrestrial'],2020-10-27 00:00:00+00:00
 Setophaga castanea,1,2,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Setophaga americana,1,2,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
 Geothlypis tolmiei,1,0,2020,['Terrestrial'],2020-10-26 00:00:00+00:00
-Dendrocygna autumnalis,1,2,2020,"['Terrestrial', 'Freshwater']",2020-11-12 00:00:00+00:00
-Podilymbus podiceps,1,2,2020,"['Terrestrial', 'Freshwater']",2020-08-13 00:00:00+00:00
+Dendrocygna autumnalis,1,2,2020,"['Freshwater', 'Terrestrial']",2020-11-12 00:00:00+00:00
+Podilymbus podiceps,1,2,2020,"['Freshwater', 'Terrestrial']",2020-08-13 00:00:00+00:00
 Coryphaeschna perrensi,1,3,2019,['Freshwater'],2019-03-18 00:00:00+00:00
 Gynacantha helenga,1,3,2019,['Freshwater'],2019-03-18 00:00:00+00:00
 Remartinia secreta,1,3,2019,['Freshwater'],2019-03-18 00:00:00+00:00
@@ -3167,7 +3167,7 @@ Setophaga coronata,1,1,2022,['Terrestrial'],2022-09-01 00:00:00+00:00
 Setophaga auduboni,1,1,2022,['Terrestrial'],2022-09-01 00:00:00+00:00
 Basileuterus culicivorus,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Geothlypis bairdi,1,1,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
-Tachybaptus dominicus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-11-29 00:00:00+00:00
+Tachybaptus dominicus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-11-29 00:00:00+00:00
 Spinus notatus,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Patagioenas cayennensis,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Euphonia elegantissima,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
@@ -3178,12 +3178,12 @@ Patagioenas flavirostris,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Mimus gilvus,1,2,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Melanotis hypoleucus,1,0,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Turdus grayi,1,1,2020,['Terrestrial'],2020-11-11 00:00:00+00:00
-Catharus dryas,1,0,2019,"['Terrestrial', 'Freshwater']",2019-07-31 00:00:00+00:00
-Catharus frantzii,1,0,2020,"['Terrestrial', 'Freshwater']",2020-11-11 00:00:00+00:00
-Spatula cyanoptera,1,0,2020,"['Terrestrial', 'Freshwater']",2020-11-13 00:00:00+00:00
-Catharus aurantiirostris,1,0,2020,"['Terrestrial', 'Freshwater']",2020-11-11 00:00:00+00:00
-Aythya affinis,1,1,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-11-13 00:00:00+00:00
-Sialia sialis,1,2,2020,"['Terrestrial', 'Freshwater']",2020-11-09 00:00:00+00:00
+Catharus dryas,1,0,2019,"['Freshwater', 'Terrestrial']",2019-07-31 00:00:00+00:00
+Catharus frantzii,1,0,2020,"['Freshwater', 'Terrestrial']",2020-11-11 00:00:00+00:00
+Spatula cyanoptera,1,0,2020,"['Freshwater', 'Terrestrial']",2020-11-13 00:00:00+00:00
+Catharus aurantiirostris,1,0,2020,"['Freshwater', 'Terrestrial']",2020-11-11 00:00:00+00:00
+Aythya affinis,1,1,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-11-13 00:00:00+00:00
+Sialia sialis,1,2,2020,"['Freshwater', 'Terrestrial']",2020-11-09 00:00:00+00:00
 Turdus assimilis,1,0,2020,['Terrestrial'],2020-11-11 00:00:00+00:00
 Catharus ustulatus,1,1,2020,['Terrestrial'],2020-11-11 00:00:00+00:00
 Catharus swainsoni,1,1,2020,['Terrestrial'],2020-11-11 00:00:00+00:00
@@ -3191,7 +3191,7 @@ Polioptila albiloris,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Ramphocaenus melanurus,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Polioptila plumbea,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Uropsila leucogastra,1,0,2020,['Terrestrial'],2020-11-03 00:00:00+00:00
-Cantorchilus thoracicus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-11-03 00:00:00+00:00
+Cantorchilus thoracicus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-11-03 00:00:00+00:00
 Thryophilus rufalbus,1,0,2020,['Terrestrial'],2020-11-03 00:00:00+00:00
 Pheugopedius maculipectus,1,0,2020,['Terrestrial'],2020-11-03 00:00:00+00:00
 Columbina passerina,1,1,2020,['Terrestrial'],2020-08-12 00:00:00+00:00
@@ -3213,8 +3213,8 @@ Vireo flavoviridis,1,1,2020,['Terrestrial'],2020-11-12 00:00:00+00:00
 Tityra semifasciata,1,0,2020,['Terrestrial'],2020-10-13 00:00:00+00:00
 Pachyramphus major,1,0,2020,['Terrestrial'],2020-10-13 00:00:00+00:00
 Leptopogon amaurocephalus,1,0,2020,['Terrestrial'],2020-02-12 00:00:00+00:00
-Mionectes oleagineus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-12 00:00:00+00:00
-Onychorhynchus mexicanus,1,0,2018,"['Terrestrial', 'Freshwater']",2018-12-13 00:00:00+00:00
+Mionectes oleagineus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-12 00:00:00+00:00
+Onychorhynchus mexicanus,1,0,2018,"['Freshwater', 'Terrestrial']",2018-12-13 00:00:00+00:00
 Zimmerius vilissimus,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
 Zimmerius parvus,1,0,2020,['Terrestrial'],2020-10-14 00:00:00+00:00
 Xiphocolaptes promeropirhynchus,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
@@ -3237,17 +3237,17 @@ Borophryne apogon,1,3,2018,['Marine'],2018-10-11 00:00:00+00:00
 Linophryne densiramus,1,3,2018,['Marine'],2018-10-11 00:00:00+00:00
 Melanocetus niger,1,3,2018,['Marine'],2018-10-11 00:00:00+00:00
 Melanocetus polyactis,1,3,2018,['Marine'],2018-10-11 00:00:00+00:00
-Sphenoclea zeylanica,1,1,2019,"['Terrestrial', 'Freshwater']",2019-03-20 00:00:00+00:00
-Vandellia diffusa,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-04 00:00:00+00:00
+Sphenoclea zeylanica,1,1,2019,"['Freshwater', 'Terrestrial']",2019-03-20 00:00:00+00:00
+Vandellia diffusa,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-04 00:00:00+00:00
 Automolus virgatus,1,0,2022,['Terrestrial'],2022-07-14 00:00:00+00:00
 Lepidocolaptes affinis,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
 Xiphorhynchus erythropygius,1,0,2020,['Terrestrial'],2020-02-14 00:00:00+00:00
-Myrmothera dives,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
+Myrmothera dives,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
 Hylopezus perspicillatus,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Grallaria guatimalensis,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Gymnopithys bicolor,1,0,2023,['Terrestrial'],2023-10-25 00:00:00+00:00
 Hylophylax naevioides,1,0,2023,['Terrestrial'],2023-10-24 00:00:00+00:00
-Gymnocichla nudiceps,1,0,2022,"['Terrestrial', 'Freshwater']",2022-08-17 00:00:00+00:00
+Gymnocichla nudiceps,1,0,2022,"['Freshwater', 'Terrestrial']",2022-08-17 00:00:00+00:00
 Cercomacroides tyrannina,1,0,2020,['Terrestrial'],2020-10-08 00:00:00+00:00
 Microrhopias quixensis,1,0,2022,['Terrestrial'],2022-07-14 00:00:00+00:00
 Myrmotherula schisticolor,1,0,2022,['Terrestrial'],2022-07-14 00:00:00+00:00
@@ -3317,7 +3317,7 @@ Nectandra turbacensis,1,3,2020,['Terrestrial'],2020-07-23 00:00:00+00:00
 Carcharhinus cerdale,5,0,2019,['Marine'],2019-02-08 00:00:00+00:00
 Ginglymostoma unami,4,0,2019,['Marine'],2019-02-08 00:00:00+00:00
 Styracura pacifica,3,0,2020,['Marine'],2020-02-24 00:00:00+00:00
-Sotalia guianensis,2,3,2017,"['Marine', 'Freshwater']",2017-10-12 00:00:00+00:00
+Sotalia guianensis,2,3,2017,"['Freshwater', 'Marine']",2017-10-12 00:00:00+00:00
 Bursera graveolens,1,1,2019,['Terrestrial'],2019-03-01 00:00:00+00:00
 Bursera tomentosa,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Bursera schlechtendalii,1,1,2021,['Terrestrial'],2021-08-18 00:00:00+00:00
@@ -3329,9 +3329,9 @@ Bolitoglossa dunni,4,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Nototriton mime,5,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
 Oedipina leptopoda,4,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
 Oedipina quadra,3,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
-Plectrohyla calvata,5,3,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
+Plectrohyla calvata,5,3,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
 Craugastor castanedai,5,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
-Smilisca manisorum,1,1,2019,"['Terrestrial', 'Freshwater']",2019-03-02 00:00:00+00:00
+Smilisca manisorum,1,1,2019,"['Freshwater', 'Terrestrial']",2019-03-02 00:00:00+00:00
 Craugastor gutschei,4,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
 Cryptotriton necopinus,5,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
 Beilschmiedia hondurensis,1,3,2019,['Terrestrial'],2019-03-27 00:00:00+00:00
@@ -3358,16 +3358,16 @@ Senna bacillaris,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Annona papilionella,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Zygia longifolia,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Compsoneura sprucei,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
-Enallagma rua,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-26 00:00:00+00:00
-Metaleptobasis bovilla,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-11 00:00:00+00:00
-Protoneura corculum,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-27 00:00:00+00:00
-Protoneura peramans,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-27 00:00:00+00:00
-Pseudostigma accedens,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-27 00:00:00+00:00
-Epigomphus subobtusus,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-18 00:00:00+00:00
-Erpetogomphus elaphe,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-26 00:00:00+00:00
-Progomphus clendoni,1,3,2019,"['Terrestrial', 'Freshwater']",2019-04-26 00:00:00+00:00
+Enallagma rua,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-26 00:00:00+00:00
+Metaleptobasis bovilla,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-11 00:00:00+00:00
+Protoneura corculum,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-27 00:00:00+00:00
+Protoneura peramans,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-27 00:00:00+00:00
+Pseudostigma accedens,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-27 00:00:00+00:00
+Epigomphus subobtusus,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-18 00:00:00+00:00
+Erpetogomphus elaphe,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-26 00:00:00+00:00
+Progomphus clendoni,1,3,2019,"['Freshwater', 'Terrestrial']",2019-04-26 00:00:00+00:00
 Micrathyria debilis,1,1,2019,['Freshwater'],2019-03-05 00:00:00+00:00
-Orthemis levis,1,3,2019,"['Terrestrial', 'Freshwater']",2019-03-20 00:00:00+00:00
+Orthemis levis,1,3,2019,"['Freshwater', 'Terrestrial']",2019-03-20 00:00:00+00:00
 Dalbergia chontalensis,3,0,2019,['Terrestrial'],2019-11-22 00:00:00+00:00
 Solanum hazenii,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Cestrum scandens,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -3375,7 +3375,7 @@ Cestrum tomentosum,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Solanum rudepannum,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Ximenia americana,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Dodonaea viscosa,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
-Duellmanohyla soralia,4,0,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
+Duellmanohyla soralia,4,0,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
 Aiouea effusa,1,3,2020,['Terrestrial'],2020-11-05 00:00:00+00:00
 Aiouea montana,1,3,2020,['Terrestrial'],2020-04-28 00:00:00+00:00
 Aiouea padiformis,1,3,2020,['Terrestrial'],2020-07-20 00:00:00+00:00
@@ -3549,14 +3549,14 @@ Montanoa guatemalensis,1,3,2019,['Terrestrial'],2019-03-25 00:00:00+00:00
 Cymbopetalum mayanum,1,3,2019,['Terrestrial'],2019-09-10 00:00:00+00:00
 Craugastor charadra,3,3,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Nototriton brodiei,4,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
-Bromeliohyla bromeliacia,1,0,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
-Ptychohyla hypomykter,3,0,2019,"['Terrestrial', 'Freshwater']",2019-08-21 00:00:00+00:00
-Lithobates warszewitschii,1,2,2019,"['Terrestrial', 'Freshwater']",2019-09-04 00:00:00+00:00
+Bromeliohyla bromeliacia,1,0,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
+Ptychohyla hypomykter,3,0,2019,"['Freshwater', 'Terrestrial']",2019-08-21 00:00:00+00:00
+Lithobates warszewitschii,1,2,2019,"['Freshwater', 'Terrestrial']",2019-09-04 00:00:00+00:00
 Bolitoglossa odonnelli,2,3,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
 Cryptotriton nasalis,4,3,2019,['Terrestrial'],2019-03-13 00:00:00+00:00
-Trachycephalus vermiculatus,1,1,2021,"['Terrestrial', 'Freshwater']",2021-04-14 00:00:00+00:00
+Trachycephalus vermiculatus,1,1,2021,"['Freshwater', 'Terrestrial']",2021-04-14 00:00:00+00:00
 Dracaena americana,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
-Angiola lineata,1,3,2019,"['Marine', 'Freshwater']",2019-08-18 00:00:00+00:00
+Angiola lineata,1,3,2019,"['Freshwater', 'Marine']",2019-08-18 00:00:00+00:00
 Arachnothryx stachyoidea,1,3,2021,['Terrestrial'],2021-09-08 00:00:00+00:00
 Oreopanax geminatus,2,0,2019,['Terrestrial'],2019-03-27 00:00:00+00:00
 Bauhinia rubeleruziana,1,3,2021,['Terrestrial'],2021-09-10 00:00:00+00:00
@@ -3805,9 +3805,9 @@ Scleria macrophylla,1,1,2019,['Terrestrial'],2019-08-29 00:00:00+00:00
 Scleria microcarpa,1,1,2019,['Terrestrial'],2019-08-29 00:00:00+00:00
 Scleria secans,1,1,2019,['Terrestrial'],2019-08-30 00:00:00+00:00
 Scleria sororia,1,1,2019,['Terrestrial'],2019-08-30 00:00:00+00:00
-Chanos chanos,1,3,2016,"['Marine', 'Freshwater']",2016-06-23 00:00:00+00:00
+Chanos chanos,1,3,2016,"['Freshwater', 'Marine']",2016-06-23 00:00:00+00:00
 Coniophanes fissidens,1,1,2013,['Terrestrial'],2013-10-22 00:00:00+00:00
-Cruziohyla sylviae,1,0,2019,"['Terrestrial', 'Freshwater']",2019-09-11 00:00:00+00:00
+Cruziohyla sylviae,1,0,2019,"['Freshwater', 'Terrestrial']",2019-09-11 00:00:00+00:00
 Banara guianensis,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Eugenia austin-smithii,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Elaeagia karstenii,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -3956,7 +3956,7 @@ Cryptoheros cutteri,1,1,2019,['Freshwater'],2019-06-17 00:00:00+00:00
 Herotilapia multispinosa,1,3,2019,['Freshwater'],2019-06-17 00:00:00+00:00
 Hypsophrys nicaraguensis,1,1,2019,['Freshwater'],2019-06-17 00:00:00+00:00
 Coccyzus erythropthalmus,1,0,2020,['Terrestrial'],2020-10-30 00:00:00+00:00
-Megaceryle alcyon,1,1,2022,"['Terrestrial', 'Freshwater']",2022-06-29 00:00:00+00:00
+Megaceryle alcyon,1,1,2022,"['Freshwater', 'Terrestrial']",2022-06-29 00:00:00+00:00
 Chlorestes eliciae,1,0,2022,['Terrestrial'],2022-08-18 00:00:00+00:00
 Antrostomus vociferus,2,1,2019,['Terrestrial'],2019-06-12 00:00:00+00:00
 Ateleia tomentosa,3,3,2019,['Terrestrial'],2019-06-25 00:00:00+00:00
@@ -3971,11 +3971,11 @@ Myrsine coriacea,1,1,2022,['Terrestrial'],2022-08-01 00:00:00+00:00
 Lasioglossum costale,1,3,2020,['Terrestrial'],2020-02-08 00:00:00+00:00
 Xenotriccus callizonus,1,0,2019,['Terrestrial'],2019-07-04 00:00:00+00:00
 Sophora tomentosa,1,3,2020,['Terrestrial'],2020-08-21 00:00:00+00:00
-Gelochelidon nilotica,1,0,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-08-14 00:00:00+00:00
-Anas acuta,1,0,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-08-13 00:00:00+00:00
+Gelochelidon nilotica,1,0,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-08-14 00:00:00+00:00
+Anas acuta,1,0,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-08-13 00:00:00+00:00
 Antrostomus carolinensis,2,0,2020,['Terrestrial'],2020-08-31 00:00:00+00:00
 Egretta rufescens,2,0,2020,"['Marine', 'Terrestrial']",2020-08-24 00:00:00+00:00
-Calidris canutus,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-10 00:00:00+00:00
+Calidris canutus,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-10 00:00:00+00:00
 Hylocichla mustelina,1,0,2020,['Terrestrial'],2020-08-05 00:00:00+00:00
 Blakea cuneata,1,3,2023,['Terrestrial'],2023-04-27 00:00:00+00:00
 Chamguava gentlei,2,0,2023,['Terrestrial'],2023-04-20 00:00:00+00:00
@@ -4048,22 +4048,22 @@ Myrcia mayana,4,3,2020,['Terrestrial'],2020-10-24 00:00:00+00:00
 Calidris virgata,1,0,2024,"['Marine', 'Terrestrial']",2024-07-05 00:00:00+00:00
 Falco columbarius,1,1,2021,"['Marine', 'Terrestrial']",2021-08-12 00:00:00+00:00
 Thalasseus sandvicensis,1,1,2019,"['Marine', 'Terrestrial']",2019-08-15 00:00:00+00:00
-Calidris alba,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-05 00:00:00+00:00
+Calidris alba,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-05 00:00:00+00:00
 Onychoprion anaethetus,1,3,2019,"['Marine', 'Terrestrial']",2019-08-14 00:00:00+00:00
 Sideroxylon stenospermum,1,1,2020,['Terrestrial'],2020-11-08 00:00:00+00:00
-Anthus rubescens,1,0,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-09 00:00:00+00:00
-Himantopus himantopus,1,2,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Ardea alba,1,3,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Bubulcus ibis,1,2,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Chlidonias niger,1,0,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
-Hydroprogne caspia,1,2,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-07 00:00:00+00:00
-Nycticorax nycticorax,1,0,2016,"['Marine', 'Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Passer domesticus,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Phalaropus lobatus,1,0,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-08 00:00:00+00:00
-Riparia riparia,1,0,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Tyto alba,1,1,2016,"['Terrestrial', 'Freshwater']",2016-10-01 00:00:00+00:00
-Larus smithsonianus,1,0,2018,"['Marine', 'Terrestrial', 'Freshwater']",2018-08-08 00:00:00+00:00
-Mugil cephalus,1,0,2022,"['Marine', 'Freshwater']",2022-05-30 00:00:00+00:00
+Anthus rubescens,1,0,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-09 00:00:00+00:00
+Himantopus himantopus,1,2,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Ardea alba,1,3,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Bubulcus ibis,1,2,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Chlidonias niger,1,0,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
+Hydroprogne caspia,1,2,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-07 00:00:00+00:00
+Nycticorax nycticorax,1,0,2016,"['Freshwater', 'Marine', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Passer domesticus,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Phalaropus lobatus,1,0,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-08 00:00:00+00:00
+Riparia riparia,1,0,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Tyto alba,1,1,2016,"['Freshwater', 'Terrestrial']",2016-10-01 00:00:00+00:00
+Larus smithsonianus,1,0,2018,"['Freshwater', 'Marine', 'Terrestrial']",2018-08-08 00:00:00+00:00
+Mugil cephalus,1,0,2022,"['Freshwater', 'Marine']",2022-05-30 00:00:00+00:00
 Malpighia glabra,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Phaethon aethereus,1,0,2019,"['Marine', 'Terrestrial']",2019-08-01 00:00:00+00:00
 Ancylopsetta dendritica,1,3,2019,['Marine'],2019-11-14 00:00:00+00:00
@@ -4076,7 +4076,7 @@ Hippoglossina bollmani,1,3,2021,['Marine'],2021-04-19 00:00:00+00:00
 Hippoglossina tetrophthalma,1,3,2021,['Marine'],2021-02-12 00:00:00+00:00
 Syacium latifrons,1,3,2019,['Marine'],2019-11-13 00:00:00+00:00
 Syacium longidorsale,1,3,2019,['Marine'],2019-11-13 00:00:00+00:00
-Syacium ovale,1,3,2019,"['Marine', 'Freshwater']",2019-11-13 00:00:00+00:00
+Syacium ovale,1,3,2019,"['Freshwater', 'Marine']",2019-11-13 00:00:00+00:00
 Colubrina elliptica,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Coccoloba uvifera,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Exothea paniculata,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -4092,7 +4092,7 @@ Lonchocarpus yoroensis,3,3,2023,['Terrestrial'],2023-11-28 00:00:00+00:00
 Lonchocarpus eriocarinalis,1,1,2019,['Terrestrial'],2019-09-03 00:00:00+00:00
 Lonchocarpus morenoi,2,0,2019,['Terrestrial'],2019-10-28 00:00:00+00:00
 Lonchocarpus purpureus,1,1,2019,['Terrestrial'],2019-10-03 00:00:00+00:00
-Xema sabini,1,1,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-02-19 00:00:00+00:00
+Xema sabini,1,1,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-02-19 00:00:00+00:00
 Bothus leopardinus,1,3,2019,['Marine'],2019-11-11 00:00:00+00:00
 Engyophrys sanctilaurentii,1,3,2019,['Marine'],2019-11-12 00:00:00+00:00
 Perissias taeniopterus,1,3,2019,['Marine'],2019-11-12 00:00:00+00:00
@@ -4103,7 +4103,7 @@ Guadua paniculata,1,1,2019,['Terrestrial'],2019-02-03 00:00:00+00:00
 Euploca procumbens,1,3,2019,['Terrestrial'],2019-11-29 00:00:00+00:00
 Symphurus atramentatus,1,3,2020,['Marine'],2020-10-30 00:00:00+00:00
 Symphurus callopterus,1,3,2020,['Marine'],2020-10-21 00:00:00+00:00
-Symphurus chabanaudi,1,3,2020,"['Marine', 'Freshwater']",2020-10-30 00:00:00+00:00
+Symphurus chabanaudi,1,3,2020,"['Freshwater', 'Marine']",2020-10-30 00:00:00+00:00
 Symphurus elongatus,1,3,2020,['Marine'],2020-10-30 00:00:00+00:00
 Symphurus fasciolaris,1,3,2020,['Marine'],2020-10-30 00:00:00+00:00
 Symphurus gorgonae,1,3,2020,['Marine'],2020-10-30 00:00:00+00:00
@@ -4128,10 +4128,10 @@ Cynodonichthys isthmensis,1,3,2019,['Freshwater'],2019-08-13 00:00:00+00:00
 Parachromis motaguensis,1,3,2019,['Freshwater'],2019-08-09 00:00:00+00:00
 Alfaro cultratus,1,1,2020,['Freshwater'],2020-02-06 00:00:00+00:00
 Alfaro huberi,1,3,2020,['Freshwater'],2020-02-04 00:00:00+00:00
-Achirus klunzingeri,1,3,2021,"['Marine', 'Freshwater']",2021-03-12 00:00:00+00:00
-Centropomus nigrescens,1,3,2018,"['Marine', 'Freshwater']",2018-11-09 00:00:00+00:00
-Achirus scutum,1,3,2021,"['Marine', 'Freshwater']",2021-05-04 00:00:00+00:00
-Trinectes fimbriatus,1,3,2021,"['Marine', 'Freshwater']",2021-05-04 00:00:00+00:00
+Achirus klunzingeri,1,3,2021,"['Freshwater', 'Marine']",2021-03-12 00:00:00+00:00
+Centropomus nigrescens,1,3,2018,"['Freshwater', 'Marine']",2018-11-09 00:00:00+00:00
+Achirus scutum,1,3,2021,"['Freshwater', 'Marine']",2021-05-04 00:00:00+00:00
+Trinectes fimbriatus,1,3,2021,"['Freshwater', 'Marine']",2021-05-04 00:00:00+00:00
 Trinectes xanthurus,1,3,2021,['Marine'],2021-05-04 00:00:00+00:00
 Arachnothryx costaricensis,2,3,2021,['Terrestrial'],2021-05-26 00:00:00+00:00
 Aegiphila panamensis,1,3,2020,['Terrestrial'],2020-03-17 00:00:00+00:00
@@ -4174,7 +4174,7 @@ Croton decalobus,2,3,2020,['Terrestrial'],2020-10-18 00:00:00+00:00
 Bunchosia mesoamericana,2,3,2022,['Terrestrial'],2022-10-19 00:00:00+00:00
 Lonchocarpus retifer,1,3,2020,['Terrestrial'],2020-11-25 00:00:00+00:00
 Ecnomiohyla salvaje,4,0,2019,['Terrestrial'],2019-08-21 00:00:00+00:00
-Heliornis fulica,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-02 00:00:00+00:00
+Heliornis fulica,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-02 00:00:00+00:00
 Burhinus bistriatus,1,1,2019,['Terrestrial'],2019-12-02 00:00:00+00:00
 Zentrygon albifacies,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Lurocalis semitorquatus,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
@@ -4182,13 +4182,13 @@ Nyctiphrynus ocellatus,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Antrostomus badius,1,0,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
 Canis latrans,1,2,2018,['Terrestrial'],2018-01-10 00:00:00+00:00
 Hydropsalis maculicaudus,1,1,2019,['Terrestrial'],2019-12-03 00:00:00+00:00
-Cathartes burrovianus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-03 00:00:00+00:00
+Cathartes burrovianus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-03 00:00:00+00:00
 Euphonia minuta,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Ibycter americanus,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
-Galbula ruficauda,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Jacamerops aureus,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Chloroceryle amazona,1,0,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Chloroceryle aenea,1,0,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
+Galbula ruficauda,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Jacamerops aureus,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Chloroceryle amazona,1,0,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Chloroceryle aenea,1,0,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-12-04 00:00:00+00:00
 Critoniadelphus nubigenus,2,0,2021,['Terrestrial'],2021-03-22 00:00:00+00:00
 Lepidaploa polypleura,2,0,2021,['Terrestrial'],2021-03-26 00:00:00+00:00
 Montanoa hexagona,3,0,2021,['Terrestrial'],2021-03-11 00:00:00+00:00
@@ -4196,25 +4196,25 @@ Verbesina apleura,1,1,2021,['Terrestrial'],2021-03-24 00:00:00+00:00
 Verbesina perymenioides,1,1,2021,['Terrestrial'],2021-03-29 00:00:00+00:00
 Nyctibius grandis,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Nyctibius jamaicensis,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
-Laterallus ruber,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Laterallus albigularis,1,1,2022,"['Terrestrial', 'Freshwater']",2022-09-02 00:00:00+00:00
-Laterallus exilis,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
+Laterallus ruber,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Laterallus albigularis,1,1,2022,"['Freshwater', 'Terrestrial']",2022-09-02 00:00:00+00:00
+Laterallus exilis,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
 Amaurolimnas concolor,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
-Pardirallus maculatus,1,1,2022,"['Terrestrial', 'Freshwater']",2022-08-19 00:00:00+00:00
+Pardirallus maculatus,1,1,2022,"['Freshwater', 'Terrestrial']",2022-08-19 00:00:00+00:00
 Puffinus subalaris,1,0,2020,"['Marine', 'Terrestrial']",2020-10-30 00:00:00+00:00
-Mesembrinibis cayennensis,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Charadrius collaris,1,0,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Jabiru mycteria,1,3,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
-Eurypyga helias,1,0,2019,"['Terrestrial', 'Freshwater']",2019-12-04 00:00:00+00:00
+Mesembrinibis cayennensis,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Charadrius collaris,1,0,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Jabiru mycteria,1,3,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
+Eurypyga helias,1,0,2019,"['Freshwater', 'Terrestrial']",2019-12-04 00:00:00+00:00
 Momotus lessonii,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Baryphthengus martii,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Electron platyrhynchum,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Eumomota superciliosa,1,0,2019,['Terrestrial'],2019-12-04 00:00:00+00:00
 Ara macao,1,0,2022,['Terrestrial'],2022-08-19 00:00:00+00:00
-Botaurus pinnatus,1,1,2019,"['Terrestrial', 'Freshwater']",2019-12-06 00:00:00+00:00
-Tigrisoma lineatum,1,1,2022,"['Terrestrial', 'Freshwater']",2022-08-19 00:00:00+00:00
-Tigrisoma fasciatum,1,0,2022,"['Terrestrial', 'Freshwater']",2022-09-02 00:00:00+00:00
-Butorides striata,1,1,2019,"['Marine', 'Terrestrial', 'Freshwater']",2019-12-06 00:00:00+00:00
+Botaurus pinnatus,1,1,2019,"['Freshwater', 'Terrestrial']",2019-12-06 00:00:00+00:00
+Tigrisoma lineatum,1,1,2022,"['Freshwater', 'Terrestrial']",2022-08-19 00:00:00+00:00
+Tigrisoma fasciatum,1,0,2022,"['Freshwater', 'Terrestrial']",2022-09-02 00:00:00+00:00
+Butorides striata,1,1,2019,"['Freshwater', 'Marine', 'Terrestrial']",2019-12-06 00:00:00+00:00
 Tapera naevia,1,1,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Dromococcyx phasianellus,1,0,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
 Geococcyx velox,1,1,2019,['Terrestrial'],2019-12-09 00:00:00+00:00
@@ -4224,7 +4224,7 @@ Trogon collaris,1,0,2022,['Terrestrial'],2022-08-17 00:00:00+00:00
 Furcraea hexapetala,1,1,2020,['Terrestrial'],2020-10-05 00:00:00+00:00
 Cribroheros alfari,1,3,2019,['Freshwater'],2019-06-17 00:00:00+00:00
 Gambusia luma,1,3,2019,['Freshwater'],2019-10-17 00:00:00+00:00
-Gambusia nicaraguensis,1,3,2019,"['Marine', 'Freshwater']",2019-12-01 00:00:00+00:00
+Gambusia nicaraguensis,1,3,2019,"['Freshwater', 'Marine']",2019-12-01 00:00:00+00:00
 Phallichthys amates,1,1,2019,['Freshwater'],2019-08-12 00:00:00+00:00
 Poecilia hondurensis,1,1,2020,['Freshwater'],2020-02-03 00:00:00+00:00
 Poecilia marcellinoi,0,1,2019,['Freshwater'],2019-08-12 00:00:00+00:00
@@ -4314,7 +4314,7 @@ Bassariscus sumichrasti,1,3,2015,['Terrestrial'],2015-03-01 00:00:00+00:00
 Pyropyga minuta,1,3,2020,['Terrestrial'],2020-11-24 00:00:00+00:00
 Aspisoma ignitum,1,3,2020,['Terrestrial'],2020-10-13 00:00:00+00:00
 Paraclaravis mondetoura,1,0,2020,['Terrestrial'],2020-01-24 00:00:00+00:00
-Aramides albiventris,1,0,2020,"['Terrestrial', 'Freshwater']",2020-01-24 00:00:00+00:00
+Aramides albiventris,1,0,2020,"['Freshwater', 'Terrestrial']",2020-01-24 00:00:00+00:00
 Florisuga mellivora,1,0,2020,['Terrestrial'],2020-10-12 00:00:00+00:00
 Glaucis aeneus,1,0,2020,['Terrestrial'],2020-10-12 00:00:00+00:00
 Threnetes ruckeri,1,0,2020,['Terrestrial'],2020-10-12 00:00:00+00:00
@@ -4378,9 +4378,9 @@ Cyanerpes cyaneus,1,0,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
 Megascops cooperi,1,0,2020,['Terrestrial'],2020-02-07 00:00:00+00:00
 Ciccaba virgata,1,0,2022,['Terrestrial'],2022-08-19 00:00:00+00:00
 Asio stygius,1,0,2022,['Terrestrial'],2022-09-01 00:00:00+00:00
-Asio clamator,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-07 00:00:00+00:00
-Notharchus hyperrhynchus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-07 00:00:00+00:00
-Monasa morphoeus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-07 00:00:00+00:00
+Asio clamator,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-07 00:00:00+00:00
+Notharchus hyperrhynchus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-07 00:00:00+00:00
+Monasa morphoeus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-07 00:00:00+00:00
 Cypseloides cryptus,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Streptoprocne rutila,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
 Streptoprocne zonaris,1,0,2020,['Terrestrial'],2020-02-10 00:00:00+00:00
@@ -4394,40 +4394,40 @@ Melanerpes hoffmannii,1,2,2020,['Terrestrial'],2020-02-17 00:00:00+00:00
 Electranthera mutica,1,0,2021,['Terrestrial'],2021-04-09 00:00:00+00:00
 Koanophyllon albicaule,1,0,2021,['Terrestrial'],2021-03-24 00:00:00+00:00
 Verbesina lanata,1,1,2021,['Terrestrial'],2021-03-26 00:00:00+00:00
-Aulacorhynchus prasinus,1,0,2022,"['Terrestrial', 'Freshwater']",2022-08-17 00:00:00+00:00
+Aulacorhynchus prasinus,1,0,2022,"['Freshwater', 'Terrestrial']",2022-08-17 00:00:00+00:00
 Pteroglossus torquatus,1,0,2023,['Terrestrial'],2023-03-10 00:00:00+00:00
 Selenidera spectabilis,1,0,2022,['Terrestrial'],2022-08-15 00:00:00+00:00
 Ramphastos sulfuratus,2,0,2021,['Terrestrial'],2021-03-18 00:00:00+00:00
 Gampsonyx swainsonii,1,2,2020,['Terrestrial'],2020-02-17 00:00:00+00:00
 Leptodon cayanensis,1,0,2020,['Terrestrial'],2020-02-17 00:00:00+00:00
-Spizaetus tyrannus,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-17 00:00:00+00:00
+Spizaetus tyrannus,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-17 00:00:00+00:00
 Spizaetus melanoleucus,1,0,2020,['Terrestrial'],2020-02-17 00:00:00+00:00
 Harpagus bidentatus,1,0,2020,['Terrestrial'],2020-02-17 00:00:00+00:00
 Accipiter bicolor,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Ictinia plumbea,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
-Busarellus nigricollis,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-18 00:00:00+00:00
-Geranospiza caerulescens,1,0,2020,"['Terrestrial', 'Freshwater']",2020-02-18 00:00:00+00:00
+Busarellus nigricollis,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-18 00:00:00+00:00
+Geranospiza caerulescens,1,0,2020,"['Freshwater', 'Terrestrial']",2020-02-18 00:00:00+00:00
 Buteogallus urubitinga,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Rupornis magnirostris,1,2,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Pseudastur albicollis,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Leucopternis semiplumbeus,1,0,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Leptotila verreauxi,1,1,2020,['Terrestrial'],2020-02-18 00:00:00+00:00
 Sporophila morelleti,1,2,2020,['Terrestrial'],2020-10-07 00:00:00+00:00
-Nyctidromus albicollis,1,1,2020,"['Terrestrial', 'Freshwater']",2020-02-19 00:00:00+00:00
+Nyctidromus albicollis,1,1,2020,"['Freshwater', 'Terrestrial']",2020-02-19 00:00:00+00:00
 Antrostomus ridgwayi,1,0,2020,['Terrestrial'],2020-02-19 00:00:00+00:00
 Setophaga pitiayumi,1,0,2020,['Terrestrial'],2020-02-19 00:00:00+00:00
 Trogon elegans,1,0,2020,['Terrestrial'],2020-10-09 00:00:00+00:00
-Megaceryle torquata,1,1,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-02-19 00:00:00+00:00
-Chloroceryle americana,1,0,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-02-19 00:00:00+00:00
+Megaceryle torquata,1,1,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-02-19 00:00:00+00:00
+Chloroceryle americana,1,0,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-02-19 00:00:00+00:00
 Anous stolidus,1,1,2020,"['Marine', 'Terrestrial']",2020-02-19 00:00:00+00:00
 Onychoprion fuscatus,1,3,2020,"['Marine', 'Terrestrial']",2020-02-19 00:00:00+00:00
-Jacana spinosa,1,3,2020,"['Terrestrial', 'Freshwater']",2020-02-19 00:00:00+00:00
+Jacana spinosa,1,3,2020,"['Freshwater', 'Terrestrial']",2020-02-19 00:00:00+00:00
 Hydrobates melania,1,0,2020,"['Marine', 'Terrestrial']",2020-02-20 00:00:00+00:00
 Fregata magnificens,1,0,2020,"['Marine', 'Terrestrial']",2020-02-20 00:00:00+00:00
 Sula nebouxii,1,0,2020,"['Marine', 'Terrestrial']",2020-02-20 00:00:00+00:00
 Sula sula,1,0,2020,"['Marine', 'Terrestrial']",2020-02-20 00:00:00+00:00
 Chondrohierax uncinatus,1,0,2020,['Terrestrial'],2020-02-20 00:00:00+00:00
-Rostrhamus sociabilis,1,1,2020,"['Terrestrial', 'Freshwater']",2020-02-20 00:00:00+00:00
+Rostrhamus sociabilis,1,1,2020,"['Freshwater', 'Terrestrial']",2020-02-20 00:00:00+00:00
 Buteogallus anthracinus,1,0,2020,['Terrestrial'],2020-02-20 00:00:00+00:00
 Geranoaetus albicaudatus,1,3,2020,['Terrestrial'],2020-02-20 00:00:00+00:00
 Buteo plagiatus,1,1,2020,['Terrestrial'],2020-02-20 00:00:00+00:00
@@ -4443,11 +4443,11 @@ Aeschynomene ciliata,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Gyrocarpus americanus,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Bolitoglossa copinhorum,4,0,2020,['Terrestrial'],2020-03-10 00:00:00+00:00
 Awaous transandeanus,1,3,2020,['Freshwater'],2020-02-07 00:00:00+00:00
-Gobiesox cephalus,0,3,2020,"['Marine', 'Freshwater']",2020-02-07 00:00:00+00:00
+Gobiesox cephalus,0,3,2020,"['Freshwater', 'Marine']",2020-02-07 00:00:00+00:00
 Hemieleotris latifasciata,1,1,2020,['Freshwater'],2020-02-07 00:00:00+00:00
 Rhonciscus bayanus,1,3,2020,['Freshwater'],2020-02-07 00:00:00+00:00
 Prunus occidentalis,1,3,2020,['Terrestrial'],2020-02-20 00:00:00+00:00
-Agamia agami,2,0,2023,"['Terrestrial', 'Freshwater']",2023-02-15 00:00:00+00:00
+Agamia agami,2,0,2023,"['Freshwater', 'Terrestrial']",2023-02-15 00:00:00+00:00
 Pseudocarcharias kamoharai,1,2,2018,['Marine'],2018-11-09 00:00:00+00:00
 Ardisia fendleri,1,1,2022,['Terrestrial'],2022-02-22 00:00:00+00:00
 Senna spectabilis,1,1,2020,['Terrestrial'],2020-06-05 00:00:00+00:00
@@ -4561,23 +4561,23 @@ Miconia doniana,1,3,2020,['Terrestrial'],2020-05-05 00:00:00+00:00
 Mortoniodendron costaricense,1,3,2020,['Terrestrial'],2020-05-05 00:00:00+00:00
 Citharexylum mocinnoi,1,3,2020,['Terrestrial'],2020-05-05 00:00:00+00:00
 Hamelia rovirosae,1,3,2020,['Terrestrial'],2020-05-05 00:00:00+00:00
-Centropomus armatus,1,3,2019,"['Marine', 'Freshwater']",2019-01-08 00:00:00+00:00
-Centropomus ensiferus,1,3,2019,"['Marine', 'Freshwater']",2019-01-23 00:00:00+00:00
-Centropomus viridis,1,3,2018,"['Marine', 'Freshwater']",2018-11-12 00:00:00+00:00
-Craugastor aurilegulus,3,0,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
-Craugastor chrysozetetes,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
+Centropomus armatus,1,3,2019,"['Freshwater', 'Marine']",2019-01-08 00:00:00+00:00
+Centropomus ensiferus,1,3,2019,"['Freshwater', 'Marine']",2019-01-23 00:00:00+00:00
+Centropomus viridis,1,3,2018,"['Freshwater', 'Marine']",2018-11-12 00:00:00+00:00
+Craugastor aurilegulus,3,0,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
+Craugastor chrysozetetes,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
 Craugastor cyanochthebius,4,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
-Craugastor fecundus,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
+Craugastor fecundus,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
 Drymobius chloroticus,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Geophis damiani,5,0,2013,['Terrestrial'],2013-05-07 00:00:00+00:00
 Bunchosia polystachia,1,3,2020,['Terrestrial'],2020-06-10 00:00:00+00:00
-Lithobates lenca,4,0,2019,"['Terrestrial', 'Freshwater']",2019-03-14 00:00:00+00:00
+Lithobates lenca,4,0,2019,"['Freshwater', 'Terrestrial']",2019-03-14 00:00:00+00:00
 Micrurus diastema,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Nototriton tomamorum,5,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
 Oedipina gephyra,5,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
 Oedipina petiola,5,0,2019,['Terrestrial'],2019-03-15 00:00:00+00:00
-Plectrohyla dasypus,5,0,2019,"['Terrestrial', 'Freshwater']",2019-03-13 00:00:00+00:00
-Poeciliopsis occidentalis,1,3,2018,"['Marine', 'Freshwater']",2018-03-20 00:00:00+00:00
+Plectrohyla dasypus,5,0,2019,"['Freshwater', 'Terrestrial']",2019-03-13 00:00:00+00:00
+Poeciliopsis occidentalis,1,3,2018,"['Freshwater', 'Marine']",2018-03-20 00:00:00+00:00
 Rhadinella tolpanorum,5,0,2013,['Terrestrial'],2013-05-08 00:00:00+00:00
 Geophis sartorii,1,1,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Myrcia hylobates,1,0,2020,['Terrestrial'],2020-07-07 00:00:00+00:00
@@ -4591,7 +4591,7 @@ Cypseloides niger,3,0,2020,['Terrestrial'],2020-08-27 00:00:00+00:00
 Laterallus jamaicensis,4,0,2020,['Freshwater'],2020-08-31 00:00:00+00:00
 Steno bredanensis,1,3,2018,['Marine'],2018-08-30 00:00:00+00:00
 Thalasseus elegans,2,1,2020,"['Marine', 'Terrestrial']",2020-08-28 00:00:00+00:00
-Electron carinatum,3,0,2020,"['Terrestrial', 'Freshwater']",2020-08-27 00:00:00+00:00
+Electron carinatum,3,0,2020,"['Freshwater', 'Terrestrial']",2020-08-27 00:00:00+00:00
 Buteogallus solitarius,2,0,2020,['Terrestrial'],2020-07-14 00:00:00+00:00
 Amazona oratrix,4,0,2020,['Terrestrial'],2020-08-28 00:00:00+00:00
 Amazona guatemalae,2,0,2020,['Terrestrial'],2020-08-28 00:00:00+00:00
@@ -4607,24 +4607,24 @@ Palicourea brachiata,1,1,2019,['Terrestrial'],2019-06-19 00:00:00+00:00
 Ardisia venosissima,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Ampelocera macrocarpa,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Setophaga chrysoparia,4,0,2020,['Terrestrial'],2020-08-31 00:00:00+00:00
-Charadrius nivosus,2,0,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-08-26 00:00:00+00:00
+Charadrius nivosus,2,0,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-08-26 00:00:00+00:00
 Etelis oculatus,0,3,2015,['Marine'],2015-10-10 00:00:00+00:00
 Ficus aurea,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
-Ardea herodias,1,2,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-08-13 00:00:00+00:00
+Ardea herodias,1,2,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-08-13 00:00:00+00:00
 Ocotea bernoulliana,1,3,2020,['Terrestrial'],2020-09-14 00:00:00+00:00
 Ocotea rhytidotricha,3,3,2020,['Terrestrial'],2020-09-14 00:00:00+00:00
 Chaetura vauxi,1,0,2020,['Terrestrial'],2020-08-12 00:00:00+00:00
 Eupsittula canicularis,3,0,2020,['Terrestrial'],2020-08-17 00:00:00+00:00
-Gallinago delicata,1,2,2020,"['Terrestrial', 'Freshwater']",2020-08-21 00:00:00+00:00
+Gallinago delicata,1,2,2020,"['Freshwater', 'Terrestrial']",2020-08-21 00:00:00+00:00
 Weinmannia anisophylla,1,3,2020,['Terrestrial'],2020-08-27 00:00:00+00:00
 Archilochus colubris,1,2,2020,['Terrestrial'],2020-10-12 00:00:00+00:00
 Pyrocephalus rubinus,1,2,2020,['Terrestrial'],2020-10-15 00:00:00+00:00
-Eudocimus albus,1,1,2021,"['Terrestrial', 'Freshwater']",2021-08-05 00:00:00+00:00
+Eudocimus albus,1,1,2021,"['Freshwater', 'Terrestrial']",2021-08-05 00:00:00+00:00
 Coccyzus americanus,1,0,2020,['Terrestrial'],2020-10-30 00:00:00+00:00
-Crotophaga sulcirostris,1,2,2020,"['Terrestrial', 'Freshwater']",2020-10-30 00:00:00+00:00
+Crotophaga sulcirostris,1,2,2020,"['Freshwater', 'Terrestrial']",2020-10-30 00:00:00+00:00
 Aeronautes saxatalis,1,0,2022,['Terrestrial'],2022-08-11 00:00:00+00:00
 Trema domingense,1,1,2021,['Terrestrial'],2021-02-21 00:00:00+00:00
-Chordeiles minor,1,0,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-11-04 00:00:00+00:00
+Chordeiles minor,1,0,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-11-04 00:00:00+00:00
 Achatocarpus pubescens,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Heliotropium rufipilum,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Vireo bellii,1,2,2020,['Terrestrial'],2020-11-12 00:00:00+00:00
@@ -4689,8 +4689,8 @@ Calliandra bijuga,1,1,2021,['Terrestrial'],2021-01-23 00:00:00+00:00
 Ardisia hintonii,1,1,2021,['Terrestrial'],2021-02-18 00:00:00+00:00
 Parmotrema crinitum,1,1,2021,['Terrestrial'],2021-05-25 00:00:00+00:00
 Canoparmelia caroliniana,1,1,2021,['Terrestrial'],2021-02-10 00:00:00+00:00
-Atlantihyla melissa,5,0,2021,"['Terrestrial', 'Freshwater']",2021-01-29 00:00:00+00:00
-Atlantihyla spinipollex,4,0,2021,"['Terrestrial', 'Freshwater']",2021-01-29 00:00:00+00:00
+Atlantihyla melissa,5,0,2021,"['Freshwater', 'Terrestrial']",2021-01-29 00:00:00+00:00
+Atlantihyla spinipollex,4,0,2021,"['Freshwater', 'Terrestrial']",2021-01-29 00:00:00+00:00
 Lonchocarpus minimiflorus,1,1,2021,['Terrestrial'],2021-02-05 00:00:00+00:00
 Lonchocarpus guatemalensis,1,2,2021,['Terrestrial'],2021-02-05 00:00:00+00:00
 Senna skinneri,1,2,2021,['Terrestrial'],2021-02-10 00:00:00+00:00
@@ -4704,8 +4704,8 @@ Harpia harpyja,3,0,2021,['Terrestrial'],2021-08-06 00:00:00+00:00
 Aegiphila fasciculata,1,3,2021,['Terrestrial'],2021-05-12 00:00:00+00:00
 Aegiphila monstrosa,1,1,2021,['Terrestrial'],2021-09-21 00:00:00+00:00
 Aegiphila skutchii,3,0,2021,['Terrestrial'],2021-09-22 00:00:00+00:00
-Hypopachus guancasco,4,0,2021,"['Terrestrial', 'Freshwater']",2021-03-15 00:00:00+00:00
-Hypopachus barberi,2,0,2021,"['Terrestrial', 'Freshwater']",2021-03-15 00:00:00+00:00
+Hypopachus guancasco,4,0,2021,"['Freshwater', 'Terrestrial']",2021-03-15 00:00:00+00:00
+Hypopachus barberi,2,0,2021,"['Freshwater', 'Terrestrial']",2021-03-15 00:00:00+00:00
 Ardisia fruticosa,1,3,2020,['Terrestrial'],2020-08-12 00:00:00+00:00
 Delphinus delphis,1,3,2020,['Marine'],2020-10-20 00:00:00+00:00
 Aphelandra schiedeana,2,0,2021,['Terrestrial'],2021-04-14 00:00:00+00:00
@@ -4723,8 +4723,8 @@ Inga dasycarpa,4,0,2021,['Terrestrial'],2021-09-29 00:00:00+00:00
 Microlobius foetidus,1,1,2021,['Terrestrial'],2021-07-01 00:00:00+00:00
 Pithecellobium winzerlingii,1,1,2022,['Terrestrial'],2022-10-26 00:00:00+00:00
 Vatairea lundellii,3,0,2021,['Terrestrial'],2021-10-05 00:00:00+00:00
-Hyalinobatrachium fleischmanni,1,1,2021,"['Terrestrial', 'Freshwater']",2021-11-16 00:00:00+00:00
-Hyalinobatrachium viridissimum,1,1,2021,"['Terrestrial', 'Freshwater']",2021-10-20 00:00:00+00:00
+Hyalinobatrachium fleischmanni,1,1,2021,"['Freshwater', 'Terrestrial']",2021-11-16 00:00:00+00:00
+Hyalinobatrachium viridissimum,1,1,2021,"['Freshwater', 'Terrestrial']",2021-10-20 00:00:00+00:00
 Aetobatus narinari,4,0,2020,['Marine'],2020-07-28 00:00:00+00:00
 Amyris oblanceolata,1,3,2021,['Terrestrial'],2021-05-27 00:00:00+00:00
 Amphitecna latifolia,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -4856,11 +4856,11 @@ Zygia latifolia,1,1,2021,['Terrestrial'],2021-10-05 00:00:00+00:00
 Arachnothryx chiriquiana,0,3,2020,['Terrestrial'],2020-08-06 00:00:00+00:00
 Sphyrna tiburo,4,0,2019,['Marine'],2019-07-02 00:00:00+00:00
 Carcharhinus falciformis,3,0,2017,['Marine'],2017-09-26 00:00:00+00:00
-Falco peregrinus,1,2,2021,"['Marine', 'Terrestrial', 'Freshwater']",2021-08-10 00:00:00+00:00
+Falco peregrinus,1,2,2021,"['Freshwater', 'Marine', 'Terrestrial']",2021-08-10 00:00:00+00:00
 Croton fragilis,1,0,2021,['Terrestrial'],2021-11-04 00:00:00+00:00
 Henriettea ramiflora,1,0,2021,['Terrestrial'],2021-11-16 00:00:00+00:00
 Drimys granadensis,1,1,2022,['Terrestrial'],2022-07-07 00:00:00+00:00
-Pandion haliaetus,1,2,2021,"['Marine', 'Terrestrial', 'Freshwater']",2021-08-17 00:00:00+00:00
+Pandion haliaetus,1,2,2021,"['Freshwater', 'Marine', 'Terrestrial']",2021-08-17 00:00:00+00:00
 Schroederobatis americana,1,1,2019,['Marine'],2019-06-24 00:00:00+00:00
 Urobatis jamaicensis,1,1,2019,['Marine'],2019-06-21 00:00:00+00:00
 Squalus clarkae,1,0,2019,['Marine'],2019-06-20 00:00:00+00:00
@@ -4872,7 +4872,7 @@ Triumfetta semitriloba,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Solenophora calycosa,1,0,2019,['Terrestrial'],2019-11-21 00:00:00+00:00
 Sommera cusucoana,5,3,2021,['Terrestrial'],2021-09-22 00:00:00+00:00
 Styrax paulhousei,3,1,2021,['Terrestrial'],2021-09-24 00:00:00+00:00
-Tringa flavipes,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-15 00:00:00+00:00
+Tringa flavipes,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-15 00:00:00+00:00
 Cupania americana,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Solanum rugosum,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Phyllanthus acuminatus,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -4894,7 +4894,7 @@ Miconia zemurrayana,2,0,2021,['Terrestrial'],2021-12-10 00:00:00+00:00
 Maclura brasiliensis,1,3,2022,['Terrestrial'],2022-11-08 00:00:00+00:00
 Carcharodon carcharias,3,0,2018,['Marine'],2018-11-07 00:00:00+00:00
 Alopias vulpinus,3,0,2018,['Marine'],2018-11-06 00:00:00+00:00
-Crocodylus acutus,3,2,2020,"['Marine', 'Terrestrial', 'Freshwater']",2020-02-25 00:00:00+00:00
+Crocodylus acutus,3,2,2020,"['Freshwater', 'Marine', 'Terrestrial']",2020-02-25 00:00:00+00:00
 Colpophyllia breviserialis,5,0,2022,['Marine'],2022-02-14 00:00:00+00:00
 Mobula thurstoni,4,0,2018,['Marine'],2018-11-09 00:00:00+00:00
 Mobula tarapacana,4,0,2018,['Marine'],2018-11-09 00:00:00+00:00
@@ -4911,7 +4911,7 @@ Eugenes fulgens,1,1,2022,['Terrestrial'],2022-08-25 00:00:00+00:00
 Tunchiornis ochraceiceps,1,0,2022,['Terrestrial'],2022-08-26 00:00:00+00:00
 Phyllonoma ruscifolia,1,3,2022,['Terrestrial'],2022-05-31 00:00:00+00:00
 Atropoides mexicanus,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
-Coniophanes bipunctatus,1,1,2012,"['Terrestrial', 'Freshwater']",2012-05-07 00:00:00+00:00
+Coniophanes bipunctatus,1,1,2012,"['Freshwater', 'Terrestrial']",2012-05-07 00:00:00+00:00
 Crotalus simus,1,3,2012,['Terrestrial'],2012-05-07 00:00:00+00:00
 Gonatodes albogularis,1,1,2013,['Terrestrial'],2013-10-25 00:00:00+00:00
 Siderolamprus montanus,4,0,2012,['Terrestrial'],2012-05-06 00:00:00+00:00
@@ -4932,7 +4932,7 @@ Stenanona tuberculata,5,3,2022,['Terrestrial'],2022-11-23 00:00:00+00:00
 Rhynchotermes perarmatus,1,3,2022,['Terrestrial'],2022-12-15 00:00:00+00:00
 Danaus plexippus,1,0,2021,['Terrestrial'],2021-08-19 00:00:00+00:00
 Machaerium nicaraguense,1,3,2022,['Terrestrial'],2022-08-18 00:00:00+00:00
-Lontra longicaudis,2,0,2020,"['Terrestrial', 'Freshwater']",2020-01-24 00:00:00+00:00
+Lontra longicaudis,2,0,2020,"['Freshwater', 'Terrestrial']",2020-01-24 00:00:00+00:00
 Bonellia longifolia,1,1,2022,['Terrestrial'],2022-08-29 00:00:00+00:00
 Pocillopora grandis,1,0,2023,['Marine'],2023-10-27 00:00:00+00:00
 Chione venosa,1,1,2022,['Terrestrial'],2022-08-17 00:00:00+00:00
@@ -4940,7 +4940,7 @@ Pouzolzia occidentalis,1,3,2022,['Terrestrial'],2022-09-06 00:00:00+00:00
 Solanum umbellatum,1,1,2022,['Terrestrial'],2022-09-02 00:00:00+00:00
 Nototriton picucha,5,0,2019,['Terrestrial'],2019-03-14 00:00:00+00:00
 Pharomachrus mocinno,2,0,2022,['Terrestrial'],2022-09-29 00:00:00+00:00
-Ramphastos ambiguus,1,0,2023,"['Terrestrial', 'Freshwater']",2023-02-14 00:00:00+00:00
+Ramphastos ambiguus,1,0,2023,"['Freshwater', 'Terrestrial']",2023-02-14 00:00:00+00:00
 Miconia prasina,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
 Entada polystachya,1,3,2020,['Terrestrial'],2020-05-05 00:00:00+00:00
 Trichostigma octandrum,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
@@ -4986,35 +4986,35 @@ Chelonia mydas,4,0,2004,"['Marine', 'Terrestrial']",2004-04-30 00:00:00+00:00
 Psidium oligospermum,1,3,2023,['Terrestrial'],2023-11-28 00:00:00+00:00
 Millepora alcicornis,4,0,2024,['Marine'],2024-02-10 00:00:00+00:00
 Mycetophyllia lamarckiana,2,3,2024,['Marine'],2024-02-10 00:00:00+00:00
-Pluvialis squatarola,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-10 00:00:00+00:00
-Pluvialis dominica,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-04 00:00:00+00:00
-Arenaria interpres,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-01 00:00:00+00:00
+Pluvialis squatarola,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-10 00:00:00+00:00
+Pluvialis dominica,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-04 00:00:00+00:00
+Arenaria interpres,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-01 00:00:00+00:00
 Anolis crassulus,1,1,2015,['Terrestrial'],2015-05-21 00:00:00+00:00
 Centrophorus granulosus,4,0,2024,['Marine'],2024-02-27 00:00:00+00:00
-Calidris himantopus,2,0,2024,"['Terrestrial', 'Freshwater']",2024-07-15 00:00:00+00:00
+Calidris himantopus,2,0,2024,"['Freshwater', 'Terrestrial']",2024-07-15 00:00:00+00:00
 Cnidoscolus urens,1,1,2018,['Terrestrial'],2018-06-12 00:00:00+00:00
-Calidris fuscicollis,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-14 00:00:00+00:00
-Calidris minutilla,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-09 00:00:00+00:00
-Calidris pusilla,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-16 00:00:00+00:00
-Calidris melanotos,1,3,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-14 00:00:00+00:00
-Limosa haemastica,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-11 00:00:00+00:00
-Calidris alpina,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-03-14 00:00:00+00:00
+Calidris fuscicollis,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-14 00:00:00+00:00
+Calidris minutilla,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-09 00:00:00+00:00
+Calidris pusilla,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-16 00:00:00+00:00
+Calidris melanotos,1,3,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-14 00:00:00+00:00
+Limosa haemastica,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-11 00:00:00+00:00
+Calidris alpina,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-03-14 00:00:00+00:00
 Palicourea phanerandra,1,1,2022,['Terrestrial'],2022-01-24 00:00:00+00:00
-Charadrius vociferus,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-12 00:00:00+00:00
+Charadrius vociferus,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-12 00:00:00+00:00
 Calidris subruficollis,3,0,2024,['Terrestrial'],2024-07-17 00:00:00+00:00
-Limnodromus scolopaceus,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-18 00:00:00+00:00
-Limosa fedoa,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-10 00:00:00+00:00
-Limnodromus griseus,3,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-17 00:00:00+00:00
-Tringa solitaria,1,3,2024,"['Terrestrial', 'Freshwater']",2024-07-16 00:00:00+00:00
-Tringa melanoleuca,2,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-18 00:00:00+00:00
-Calidris mauri,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-08 00:00:00+00:00
-Calidris bairdii,1,1,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-08 00:00:00+00:00
-Recurvirostra americana,1,3,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-03 00:00:00+00:00
-Charadrius semipalmatus,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-04 00:00:00+00:00
-Steganopus tricolor,1,1,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-09 00:00:00+00:00
-Actitis macularius,1,1,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-10 00:00:00+00:00
-Tringa incana,1,3,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-12 00:00:00+00:00
-Tringa semipalmata,1,0,2024,"['Marine', 'Terrestrial', 'Freshwater']",2024-07-12 00:00:00+00:00
+Limnodromus scolopaceus,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-18 00:00:00+00:00
+Limosa fedoa,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-10 00:00:00+00:00
+Limnodromus griseus,3,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-17 00:00:00+00:00
+Tringa solitaria,1,3,2024,"['Freshwater', 'Terrestrial']",2024-07-16 00:00:00+00:00
+Tringa melanoleuca,2,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-18 00:00:00+00:00
+Calidris mauri,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-08 00:00:00+00:00
+Calidris bairdii,1,1,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-08 00:00:00+00:00
+Recurvirostra americana,1,3,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-03 00:00:00+00:00
+Charadrius semipalmatus,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-04 00:00:00+00:00
+Steganopus tricolor,1,1,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-09 00:00:00+00:00
+Actitis macularius,1,1,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-10 00:00:00+00:00
+Tringa incana,1,3,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-12 00:00:00+00:00
+Tringa semipalmata,1,0,2024,"['Freshwater', 'Marine', 'Terrestrial']",2024-07-12 00:00:00+00:00
 Trogon violaceus,1,3,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Ictinia mississippiensis,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Dryobates scalaris,1,1,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
@@ -5022,7 +5022,7 @@ Buteo jamaicensis,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Buteo platypterus,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Accipiter striatus,1,0,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Chordeiles acutipennis,1,0,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
-Zenaida macroura,1,0,2024,"['Terrestrial', 'Freshwater']",2024-06-12 00:00:00+00:00
+Zenaida macroura,1,0,2024,"['Freshwater', 'Terrestrial']",2024-06-12 00:00:00+00:00
 Melanerpes formicivorus,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Zenaida asiatica,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00
 Accipiter cooperii,1,2,2024,['Terrestrial'],2024-06-12 00:00:00+00:00

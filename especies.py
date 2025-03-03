@@ -1,10 +1,5 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
-import sklearn as skl
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
 import os
 import sys
 from sys import argv
@@ -82,6 +77,31 @@ def preprocesamiento(path):
     plt.legend(title='Categoría')
     plt.grid(True)
     plt.show()
+
+
+    df['systems'] = df['systems'].apply(lambda x: x if isinstance(x, list) else [x])
+
+    df_exploded = df.explode('systems').rename(columns={'systems': 'system'})
+
+    df_exploded = df_exploded[~df_exploded['redlistCategory_ordinal'].isin([0, 1])]
+
+    grouped = df_exploded.groupby(['system', 'redlistCategory_ordinal'])['scientificName']\
+                        .nunique()\
+                        .reset_index(name='count')
+
+    pivot_df = grouped.pivot(index='system', columns='redlistCategory_ordinal', values='count').fillna(0)
+
+    inverse_redlist_order_map = {v: k for k, v in redlist_order_map.items()}
+    pivot_df = pivot_df.rename(columns=inverse_redlist_order_map)
+
+    plt.figure(figsize=(10, 6))
+    pivot_df.plot(kind='bar', stacked=False, ax=plt.gca())
+    plt.xlabel('Sistema')
+    plt.ylabel('Número de especies')
+    plt.title('Número de especies por sistema y categoría de peligro')
+    plt.legend(title='Categoría de peligro (ordinal)')
+    plt.show()
+
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
