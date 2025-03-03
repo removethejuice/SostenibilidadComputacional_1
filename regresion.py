@@ -1,32 +1,58 @@
-import sys
-import joblib
-import numpy as np
 import pandas as pd
+import numpy as np
+import joblib
+import sys
+import statsmodels.api as sm
+from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 
-# Cargar el conjunto de datos
-df = pd.read_excel(r"Dataset_gfw_preprocesado/Country primary loss.xlsx")
+# Cargar datos desde el archivo Excel
+file_path = r"Dataset_gfw_preprocesado\Country primary loss.xlsx"  # Cambia esto por la ruta real de tu archivo
+df = pd.read_excel(file_path)
 
-# Seleccionar solo las columnas relevantes (años)
+# Filtrar solo las columnas de pérdida de cobertura forestal (años 2002-2023)
 year_columns = [col for col in df.columns if col.startswith("primary_loss_ha_")]
-years = np.array([int(col.split("_")[-1]) for col in year_columns]).reshape(-1, 1)
-tree_loss = df[year_columns].sum().values  # Sumar todos los datos de pérdida de árboles
+df_filtered = df[year_columns].sum()  # Sumar la pérdida total por año
 
-# Entrenar el modelo
-model = LinearRegression()
-model.fit(years, tree_loss)
+# Crear variables independientes (X) y dependientes (y)
+years = np.array([int(col.split('_')[-1]) for col in year_columns]).reshape(-1, 1)
+tree_loss = df_filtered.values.reshape(-1, 1)
 
-# Guardar el modelo
-joblib.dump(model, "tree_loss_model.pkl")
-print("Modelo guardado como 'tree_loss_model.pkl'")
+# Función para calcular BIC y seleccionar el mejor grado polinomial
+def select_best_polynomial(X, y, max_degree=5):
+    best_bic = float('inf')
+    best_degree = 1
+    best_model = None
 
-# Prediccion desde la linea de comandos
-if len(sys.argv) == 2:
+    for degree in range(1, max_degree + 1):
+        poly = PolynomialFeatures(degree)
+        X_poly = poly.fit_transform(X)
+        
+        model = sm.OLS(y, sm.add_constant(X_poly)).fit()
+        bic = model.bic  # Obtener el BIC
+
+        if bic < best_bic:
+            best_bic = bic
+            best_degree = degree
+            best_model = model
+
+    return best_degree, best_model
+
+# Seleccionar el mejor modelo polinomial
+best_degree, best_model = select_best_polynomial(years, tree_loss)
+
+# Guardar el modelo en un archivo
+joblib.dump((best_model, best_degree), "tree_loss_model.pkl")
+print(f"Modelo guardado como 'tree_loss_model.pkl' con grado polinomial {best_degree}")
+
+# Permitir predicciones desde la línea de comandos
+if len(sys.argv) > 1:
     try:
-        year = int(sys.argv[1])  # Convertir la entrada de la línea de comandos a entero
-        model = joblib.load("tree_loss_model.pkl")  # Cargar el modelo
-        prediction = model.predict(np.array([[year]]))  # Predecir la pérdida de árboles
-        print(f"Pérdida de árboles predicha para {year}: {prediction[0]}")
+        input_year = int(sys.argv[1])
+        poly = PolynomialFeatures(best_degree)
+        X_input = poly.fit_transform(np.array([[input_year]]))
+        prediction = best_model.predict(sm.add_constant(X_input))[0]
+
+        print(f"Pérdida de cobertura forestal estimada para {input_year}: {prediction:.2f} hectáreas")
     except ValueError:
-        print("Error: Por favor, ingrese un año válido como número.")
-        sys.exit(1)
+        print("Error: Introduce un año válido como número.")
