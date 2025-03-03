@@ -26,7 +26,7 @@ def preprocesamiento_gfw(path):
         print(sheet)
         df = pd.read_excel(path, sheet_name=sheet)  # leemos el archivo excel, nos trasladamremos por cada sheet del archivo y borramos el mismo tipo de datos
         if 'country' in df.columns:
-            # Check if the first column is unnamed and contains no useful information
+            # Chequear si no se encuentra vacia la columna
             if df.columns[0] == 'Unnamed: 0' and df[df.columns[0]].isnull().all():
                 df = df.drop(df.columns[0], axis=1)
             df = df.dropna()  # borramos las filas con datos faltantes, viendo los datos directamente, vemos que no hay datos faltantes, pero siempre inclyo el codigo
