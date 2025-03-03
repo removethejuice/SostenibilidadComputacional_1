@@ -8,6 +8,13 @@ from sklearn.linear_model import LinearRegression
 import os
 import sys
 from sys import argv
+import statsmodels.api as sm
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+
+
+
 
 # Notamos que hay que hacer un preprocesamiento solido, dado que nuestro dataset contiene muchos datos redundantes
 def preprocesamiento_gfw(path):
@@ -129,6 +136,8 @@ def plot_top_5_loss(df, top=5):
 
     # Show the plot
     plt.show()
+
+
 
 def main():
     path = "gfw_2023_statistics_summary_v30102024.xlsx"
